@@ -1,0 +1,2245 @@
+11-05-2023 @ 02:02:09 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699142529,"event_id":"6d7e3d15-c611-4888-9f3e-b7aec7da0cd7","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k001-wood-veneer-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.25512s
+
+11-05-2023 @ 02:02:09 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AbivUSGjZlyZPL-CwqOStqj"}
+
+11-05-2023 @ 02:02:22 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699142542,"event_id":"2459d382-9073-456b-8c62-4e78c253118a","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc002-pvc-door\/?add-to-cart=3734","custom_data":{"content_ids":"[\"L001-13_3734\"]","content_name":"L013 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-13_3734\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.29252s
+
+11-05-2023 @ 02:02:22 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A0dOZUUCtorXpoGkla3ZrQz"}
+
+11-05-2023 @ 02:35:34 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699144533,"event_id":"999977b4-42e0-4b81-ba81-491b466ebdb7","event_source_url":"https:\/\/www.okpsdoor.com\/product\/ml011-melamine-door\/?noamp=mobile","custom_data":{"content_name":"ML011 Melamine Door","content_ids":"[\"ML011_3889\"]","content_type":"product","contents":"[{\"id\":\"ML011_3889\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"66.249.70.5","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.6045.105 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.39135s
+
+11-05-2023 @ 02:35:34 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AAX7QySIMcGh4jtKmscaOU4"}
+
+11-05-2023 @ 02:49:31 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.28674s
+
+11-05-2023 @ 02:49:31 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 02:55:58 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699145758,"event_id":"fa89883c-891d-43c9-a54a-acc650ef7d8c","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/4\/?add-to-cart=3855","custom_data":{"content_ids":"[\"L064_3855\"]","content_name":"L064 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L064_3855\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.09912s
+
+11-05-2023 @ 02:55:58 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AbjYsH2V8ELvaOf7Wawu9QH"}
+
+11-05-2023 @ 02:56:16 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699145775,"event_id":"5ee4bdfa-4c60-46be-b55b-983f3aa49dbd","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k005-wood-veneer-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26951s
+
+11-05-2023 @ 02:56:16 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AVjAdvwzEfJQZdVpZbG76WC"}
+
+11-05-2023 @ 02:56:33 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699145792,"event_id":"7899db4c-1a58-4ad4-8bdf-d4bccd30994c","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k006-wood-veneer-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28523s
+
+11-05-2023 @ 02:56:33 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AgibDQL-tbsISzNwr8SjWl2"}
+
+11-05-2023 @ 02:56:45 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699145805,"event_id":"a255d8eb-c592-4d6a-9cc2-6f07b083f59b","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc09-pvc-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26965s
+
+11-05-2023 @ 02:56:45 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AuiXxga73XX7sOsuMz-XRag"}
+
+11-05-2023 @ 02:56:58 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699145818,"event_id":"ead29bf0-9dee-47f1-bb8e-7dd302f9f66b","event_source_url":"https:\/\/www.okpsdoor.com\/product\/s004-pivot-door\/?add-to-cart=3722","custom_data":{"content_ids":"[\"L001-1_3722\"]","content_name":"L001 Lacquered MDF Door (Copy)","content_type":"product","contents":"[{\"id\":\"L001-1_3722\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.30455s
+
+11-05-2023 @ 02:56:58 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AWm-AkG0m6ctKbvVOdvPTqE"}
+
+11-05-2023 @ 03:03:59 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699146238,"event_id":"33540dc1-47ed-41a4-a826-3e5ffdc8051b","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l017-lacquered-mdf-door-copy\/?noamp=mobile","custom_data":{"content_name":"L017 Lacquered MDF Door","content_ids":"[\"L001-17_3738\"]","content_type":"product","contents":"[{\"id\":\"L001-17_3738\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":"1","currency":"USD"},"user_data":{"client_ip_address":"47.128.39.91","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.29749s
+
+11-05-2023 @ 03:03:59 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AooeebnTxNV43-Ej0r1Abec"}
+
+11-05-2023 @ 03:13:35 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699146814,"event_id":"74856c72-afd5-410a-ba22-2484acd95f85","event_source_url":"https:\/\/www.okpsdoor.com\/product\/ml013-melamine-door\/?noamp=mobile","custom_data":{"content_name":"ML013 Melamine Door","content_ids":"[\"ML013_3887\"]","content_type":"product","contents":"[{\"id\":\"ML013_3887\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"114.119.149.89","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.30013s
+
+11-05-2023 @ 03:13:35 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ahr7reO3wm7GJGFW28_T3NC"}
+
+11-05-2023 @ 03:14:53 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699146893,"event_id":"c042c434-3a22-4200-aa87-1826d34a029e","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/","custom_data":{"content_name":"Door","content_category":"Door","content_ids":"[\"S001_4153\",\"F005_4111\",\"PVC002_3989\",\"PVC004_3988\",\"PVC005_3987\",\"PVC006_3986\",\"PVC007_3985\",\"PVC008_3984\",\"PVC09_3983\",\"PVC010_3982\"]","content_type":"product","contents":[{"id":"S001_4153","quantity":1},{"id":"F005_4111","quantity":1},{"id":"PVC002_3989","quantity":1},{"id":"PVC004_3988","quantity":1},{"id":"PVC005_3987","quantity":1},{"id":"PVC006_3986","quantity":1},{"id":"PVC007_3985","quantity":1},{"id":"PVC008_3984","quantity":1},{"id":"PVC09_3983","quantity":1},{"id":"PVC010_3982","quantity":1},{"id":"PVC001_3970","quantity":1},{"id":"K002_3969","quantity":1}]},"user_data":{"client_ip_address":"114.119.143.119","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28387s
+
+11-05-2023 @ 03:14:53 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AIawfa46_0etlYokclUaFRc"}
+
+11-05-2023 @ 03:33:13 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699147993,"event_id":"feaa9a81-1e9f-44d6-a684-b0ffc30d0b95","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc007-pvc-door\/?add-to-cart=3737","custom_data":{"content_ids":"[\"L001-16_3737\"]","content_name":"L016 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-16_3737\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26738s
+
+11-05-2023 @ 03:33:13 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ANro8OlnFT1v_dyUMWS5GlK"}
+
+11-05-2023 @ 03:33:41 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148021,"event_id":"57dc430a-0804-4ef2-bdf1-af95b6d8199d","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc09-pvc-door\/?add-to-cart=3764","custom_data":{"content_ids":"[\"L001-18-1_3764\"]","content_name":"L020 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-1_3764\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28028s
+
+11-05-2023 @ 03:33:41 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AEs5CEcmwXslUWbFVdu31hn"}
+
+11-05-2023 @ 03:34:05 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148045,"event_id":"641c7e15-b1cb-4b66-9729-4db2469744cc","event_source_url":"https:\/\/www.okpsdoor.com\/product\/jhon-vladimir-copy-5\/?add-to-cart=3120","custom_data":{"content_ids":"[\"$18\\\/m\\u00b2-4_3120\"]","content_name":"Jhon Vladimir (Copy)","content_type":"product","contents":"[{\"id\":\"$18\\\/m\\u00b2-4_3120\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26152s
+
+11-05-2023 @ 03:34:05 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A4FamYlCzNtKPRFENjjWuS6"}
+
+11-05-2023 @ 03:36:29 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148189,"event_id":"d1471397-8992-483e-b6d8-9b9fed2b7ffb","event_source_url":"https:\/\/www.okpsdoor.com\/shop\/page\/10\/?add-to-cart=3728","custom_data":{"content_ids":"[\"L001-7_3728\"]","content_name":"L007 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-7_3728\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.08124s
+
+11-05-2023 @ 03:36:29 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ANqGpF3WnRry0UsMha9xpI4"}
+
+11-05-2023 @ 03:36:59 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148218,"event_id":"293dc1a7-e17a-46fc-b5f8-a1ae04c22dc3","event_source_url":"https:\/\/www.okpsdoor.com\/shop\/page\/11\/?add-to-cart=3680","custom_data":{"content_ids":"[\"okps01_3680\"]","content_name":"Ak0001 Door PVC MDF","content_type":"product","contents":"[{\"id\":\"okps01_3680\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26249s
+
+11-05-2023 @ 03:36:59 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AXWS8kXwIKt5VXxffOg19nI"}
+
+11-05-2023 @ 03:37:27 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148247,"event_id":"97a5baee-856c-47dc-8292-339be81a7949","event_source_url":"https:\/\/www.okpsdoor.com\/shop\/page\/3\/?add-to-cart=3938","custom_data":{"content_ids":"[\"P016_3938\"]","content_name":"P016 Panel Door","content_type":"product","contents":"[{\"id\":\"P016_3938\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26964s
+
+11-05-2023 @ 03:37:27 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AirEEgYO1tnpkFnLQOokU-r"}
+
+11-05-2023 @ 03:37:56 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148275,"event_id":"5e3bf821-b8fe-490d-8502-59634b2bf5d1","event_source_url":"https:\/\/www.okpsdoor.com\/shop\/page\/3\/?add-to-cart=3947","custom_data":{"content_ids":"[\"P007_3947\"]","content_name":"P007 Panel Door","content_type":"product","contents":"[{\"id\":\"P007_3947\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26078s
+
+11-05-2023 @ 03:37:56 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AcsDTomF9ntZBN7gk68rHd6"}
+
+11-05-2023 @ 03:38:22 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148302,"event_id":"5cb6982a-c35b-4d4e-ba5b-8f5212693575","event_source_url":"https:\/\/www.okpsdoor.com\/shop\/page\/4\/?add-to-cart=3899","custom_data":{"content_ids":"[\"P021_3899\"]","content_name":"P021 Panel Door","content_type":"product","contents":"[{\"id\":\"P021_3899\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26116s
+
+11-05-2023 @ 03:38:22 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AhsV4mmGXL976burBTi3wVR"}
+
+11-05-2023 @ 03:44:03 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148643,"event_id":"cb6b957a-b1ba-4dd4-a4d9-d48570e7673c","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/4\/?add-to-cart=3857","custom_data":{"content_ids":"[\"L062_3857\"]","content_name":"L062 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L062_3857\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28782s
+
+11-05-2023 @ 03:44:03 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AudxHPNX_iIcERp9L4AQSep"}
+
+11-05-2023 @ 03:44:29 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148668,"event_id":"c197b694-52f4-436d-8fb1-167a8eb0a73e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p013-panel-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27219s
+
+11-05-2023 @ 03:44:29 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AF6wZw2GOU6fD_RA3CbMzlo"}
+
+11-05-2023 @ 03:44:53 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699148693,"event_id":"f25ba002-3bfc-4de1-8a7a-17c4784e8f42","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc004-pvc-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2804s
+
+11-05-2023 @ 03:44:53 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AarQ8d9QkKFuStbF5tQHzXg"}
+
+11-05-2023 @ 03:55:33 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699149333,"event_id":"7d55c67f-42e1-44b9-afcf-d0ffca3faf7e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/ml011-melamine-door\/?noamp=mobile","custom_data":{"content_name":"ML011 Melamine Door","content_ids":"[\"ML011_3889\"]","content_type":"product","contents":"[{\"id\":\"ML011_3889\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"114.119.140.107","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28987s
+
+11-05-2023 @ 03:55:33 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AavTyafBoeMYf2lnqPRPpYt"}
+
+11-05-2023 @ 04:09:47 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699150187,"event_id":"6b39074b-9571-4f0f-86e8-c49b60669a61","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l012-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L012 Lacquered MDF Door","content_ids":"[\"L001-12_3733\"]","content_type":"product","contents":"[{\"id\":\"L001-12_3733\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":"1","currency":"USD"},"user_data":{"client_ip_address":"47.128.18.47","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26866s
+
+11-05-2023 @ 04:09:47 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ADGuec-6nUIpt2NThZMvQUO"}
+
+11-05-2023 @ 04:09:47 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.36756s
+
+11-05-2023 @ 04:09:47 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 04:20:24 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699150824,"event_id":"ca9e7842-c24d-4567-b272-d6109b5ac458","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p013-panel-door\/?add-to-cart=3768","custom_data":{"content_ids":"[\"L001-18-5_3768\"]","content_name":"L024 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-5_3768\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28433s
+
+11-05-2023 @ 04:20:24 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AGc9j-Xq22OZpNkcjc4o5ha"}
+
+11-05-2023 @ 04:24:28 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699151068,"event_id":"0613b8c4-7da2-4b8b-81e0-8a90caa47caa","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/pvcmdf\/?add-to-cart=3680","custom_data":{"content_ids":"[\"okps01_3680\"]","content_name":"Ak0001 Door PVC MDF","content_type":"product","contents":"[{\"id\":\"okps01_3680\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.29632s
+
+11-05-2023 @ 04:24:28 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Allq68PTItU4Gxn9h00TOoP"}
+
+11-05-2023 @ 04:31:11 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699151471,"event_id":"69964cee-3d2e-4464-b80a-d687e28fe896","event_source_url":"https:\/\/www.okpsdoor.com\/product\/jhon-vladimir-copy-3\/?add-to-cart=3106","custom_data":{"content_ids":"[\"$18\\\/m\\u00b2-2_3106\"]","content_name":"Jhon Vladimir (Copy)","content_type":"product","contents":"[{\"id\":\"$18\\\/m\\u00b2-2_3106\",\"quantity\":1}]","value":29,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28655s
+
+11-05-2023 @ 04:31:11 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AtPN2cRqOFbdLRa3LXGiIos"}
+
+11-05-2023 @ 04:31:28 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699151487,"event_id":"6b0b1fb1-144e-4303-bbf3-de0b0287ddc9","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k005-wood-veneer-door\/?add-to-cart=3729","custom_data":{"content_ids":"[\"L001-8_3729\"]","content_name":"L008 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-8_3729\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.31902s
+
+11-05-2023 @ 04:31:28 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A3LTZfzb4YosX3pzbJ_xyeK"}
+
+11-05-2023 @ 04:31:44 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699151504,"event_id":"9d639c27-3694-48b6-8037-16dfb71913e2","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p006-panel-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28065s
+
+11-05-2023 @ 04:31:44 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Agq055qaQ6RVNPhKkFhwB-3"}
+
+11-05-2023 @ 04:31:59 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699151518,"event_id":"cfe6733b-a580-46f9-9c95-f5b4874675c7","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc09-pvc-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28228s
+
+11-05-2023 @ 04:31:59 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AY--bPU6Lqq_HsPEZuzwzPL"}
+
+11-05-2023 @ 04:32:12 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699151532,"event_id":"766b6ff7-47da-460b-a7e1-f50db261a7ae","event_source_url":"https:\/\/www.okpsdoor.com\/product\/s004-pivot-door\/?add-to-cart=3983","custom_data":{"content_ids":"[\"PVC09_3983\"]","content_name":"PVC09 PVC Door","content_type":"product","contents":"[{\"id\":\"PVC09_3983\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28311s
+
+11-05-2023 @ 04:32:12 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AFIYfevnyb_Mo87oo8RvrGn"}
+
+11-05-2023 @ 04:51:02 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699152662,"event_id":"f64822a4-9af6-44bf-8372-368b0eaf3ba2","event_source_url":"https:\/\/www.okpsdoor.com\/product\/s004-pivot-door\/","custom_data":{"content_name":"S004 Pivot door","content_ids":"[\"S004_4158\"]","content_type":"product","contents":"[{\"id\":\"S004_4158\",\"quantity\":1}]","content_category":"Popular","value":0,"currency":"USD"},"user_data":{"client_ip_address":"31.13.127.116","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28049s
+
+11-05-2023 @ 04:51:02 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ARTU2L47pL2uXNgZAWqLOqA"}
+
+11-05-2023 @ 04:58:48 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699153128,"event_id":"020793dd-796f-485a-b48f-abc4e3998bdb","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc010-pvc-door\/?noamp=mobile","custom_data":{"content_name":"PVC010 PVC Door","content_ids":"[\"PVC010_3982\"]","content_type":"product","contents":"[{\"id\":\"PVC010_3982\",\"quantity\":1}]","content_category":"PVC Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"47.128.48.58","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.33157s
+
+11-05-2023 @ 04:58:48 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Au8d3i-9AhndzswAkHS1gTa"}
+
+11-05-2023 @ 05:14:36 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.1293s
+
+11-05-2023 @ 05:14:36 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 05:16:15 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699154175,"event_id":"2d0048da-4647-463d-af06-7edf38ee6ffa","event_source_url":"https:\/\/www.okpsdoor.com\/product\/jhon-vladimir-copy\/?add-to-cart=3123","custom_data":{"content_ids":"[\"$18\\\/m\\u00b2-5_3123\"]","content_name":"White Primed Iseo 1\/2 Hour Firecheck (44mm)","content_type":"product","contents":"[{\"id\":\"$18\\\/m\\u00b2-5_3123\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27747s
+
+11-05-2023 @ 05:16:15 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A8b4IizkvDH_HRb7rVBZjKm"}
+
+11-05-2023 @ 05:16:26 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699154186,"event_id":"b87a43dc-e878-4218-a5ce-01baa112f28e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k001-wood-veneer-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28677s
+
+11-05-2023 @ 05:16:26 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AOeXYAeDcaFwlDEHm-3fFUc"}
+
+11-05-2023 @ 05:16:36 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699154196,"event_id":"084623e9-2a00-4365-88f1-e9e151ba74b7","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k003-wood-veneer-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27605s
+
+11-05-2023 @ 05:16:36 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AoLWqxlPA-JIULoVdNiDAbu"}
+
+11-05-2023 @ 05:16:45 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699154205,"event_id":"034b00a1-f4ce-4e35-b484-ff73838c703c","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k007-wood-fire-rated-door\/?add-to-cart=3765","custom_data":{"content_ids":"[\"L001-18-2_3765\"]","content_name":"L021 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-2_3765\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26873s
+
+11-05-2023 @ 05:16:45 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ab8hBiWtsntawQfgbY1mqLg"}
+
+11-05-2023 @ 05:16:55 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699154215,"event_id":"bc46ed13-95f9-42c6-b921-73aeda313af0","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p002-panel-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27315s
+
+11-05-2023 @ 05:16:55 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ALk_42jKSegRcD1O7sUlgOi"}
+
+11-05-2023 @ 05:17:02 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699154222,"event_id":"f6f39bb4-824e-403b-95de-19179d8d8008","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p005-panel-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.3006s
+
+11-05-2023 @ 05:17:02 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ahjwb-hvhwDrkh5LORL38Hy"}
+
+11-05-2023 @ 05:53:58 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699156437,"event_id":"7af1a2d8-058a-4dc7-b83a-55bc7acdd938","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p009-panel-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.30036s
+
+11-05-2023 @ 05:53:58 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AfzUhW3AWnq8Mtgllal8BfX"}
+
+11-05-2023 @ 05:54:19 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699156459,"event_id":"93dacf06-526c-4573-9e6d-7f910c76d32b","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc007-pvc-door\/?add-to-cart=3770","custom_data":{"content_ids":"[\"L001-18-7_3770\"]","content_name":"L026 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-7_3770\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.33343s
+
+11-05-2023 @ 05:54:19 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A5YJNbUBlDBYV0OW19N76Rg"}
+
+11-05-2023 @ 05:54:44 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699156484,"event_id":"6114546a-4302-4f55-b771-ce2badd919a1","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k005-wood-veneer-door\/?add-to-cart=3736","custom_data":{"content_ids":"[\"L001-15_3736\"]","content_name":"L015 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-15_3736\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27387s
+
+11-05-2023 @ 05:54:44 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AQ41V2bSCL-I7x7rh7iYGoe"}
+
+11-05-2023 @ 05:57:08 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699156628,"event_id":"cc7800ea-d5ff-49d4-9d11-79462f426301","event_source_url":"https:\/\/www.okpsdoor.com\/shop\/page\/2\/?add-to-cart=3949","custom_data":{"content_ids":"[\"P005_3949\"]","content_name":"P005 Panel Door","content_type":"product","contents":"[{\"id\":\"P005_3949\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27976s
+
+11-05-2023 @ 05:57:08 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AiqxKV9HJYo7sOP2NI8_o5v"}
+
+11-05-2023 @ 06:00:18 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699156818,"event_id":"232ea981-bc16-4ce3-9200-466a02547ddb","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l016-lacquered-mdf-door-copy\/?noamp=mobile","custom_data":{"content_name":"L016 Lacquered MDF Door","content_ids":"[\"L001-16_3737\"]","content_type":"product","contents":"[{\"id\":\"L001-16_3737\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":"1","currency":"USD"},"user_data":{"client_ip_address":"47.128.28.35","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.1048s
+
+11-05-2023 @ 06:00:18 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AzkaANobqpbf7Qtcg3H_Ngk"}
+
+11-05-2023 @ 06:08:03 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699157283,"event_id":"4634f3c2-11fc-4ab6-8e22-c18bde14eabf","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/8\/?add-to-cart=3736","custom_data":{"content_ids":"[\"L001-15_3736\"]","content_name":"L015 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-15_3736\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28099s
+
+11-05-2023 @ 06:08:03 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ALrZyt6Jy5EG8llPhn5vMLG"}
+
+11-05-2023 @ 06:30:15 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699158615,"event_id":"923ce951-82be-4c11-b588-70a9318e17dc","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p011-panel-door\/?add-to-cart=3771","custom_data":{"content_ids":"[\"L001-18-8_3771\"]","content_name":"L027 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-8_3771\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27834s
+
+11-05-2023 @ 06:30:15 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AwCcSDtN9Di4iRMIWEjxHz-"}
+
+11-05-2023 @ 06:33:19 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.30213s
+
+11-05-2023 @ 06:33:19 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 06:39:28 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699159168,"event_id":"a4e228b8-caf0-467d-a4a0-0d0309bb6ceb","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/7\/?add-to-cart=3738","custom_data":{"content_ids":"[\"L001-17_3738\"]","content_name":"L017 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-17_3738\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28593s
+
+11-05-2023 @ 06:39:28 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AHW5VkiKViYH63Ajt7k-7Xy"}
+
+11-05-2023 @ 06:39:56 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699159196,"event_id":"16d40be5-dcf4-4c14-9618-ba8d38868507","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p011-panel-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28283s
+
+11-05-2023 @ 06:39:56 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AgXkvrlBRVVV5-03fX8vYBJ"}
+
+11-05-2023 @ 06:40:23 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699159223,"event_id":"94ecb8fb-dd70-4b0a-80e3-c0bc6e7b9fc5","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc006-pvc-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27581s
+
+11-05-2023 @ 06:40:23 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ar_e9p0sf_jnYf2oREkZRsR"}
+
+11-05-2023 @ 06:40:49 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699159248,"event_id":"cc3fe66d-23a6-4755-896e-01bfafc02629","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc006-pvc-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27563s
+
+11-05-2023 @ 06:40:49 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ao-nQxRkcMbpjx7bvE-KNur"}
+
+11-05-2023 @ 07:04:36 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699160675,"event_id":"65db8c5f-6ff7-4ec4-964a-1db5561e03f8","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p015-panel-door\/?noamp=mobile","custom_data":{"content_name":"P015 Panel Door","content_ids":"[\"P015_3939\"]","content_type":"product","contents":"[{\"id\":\"P015_3939\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"114.119.158.118","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.36116s
+
+11-05-2023 @ 07:04:36 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ABhMBdVCTwETyXCjixmSxIN"}
+
+11-05-2023 @ 07:25:08 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699161908,"event_id":"29962ed5-8331-466e-9e0c-a87a73638ff7","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p003-panel-door\/?add-to-cart=3764","custom_data":{"content_ids":"[\"L001-18-1_3764\"]","content_name":"L020 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-1_3764\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26857s
+
+11-05-2023 @ 07:25:08 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AM5gSOeDgPMhs8pDXy31yRD"}
+
+11-05-2023 @ 07:25:52 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699161951,"event_id":"ad2fbfb9-7078-4e66-9d25-5ccfabaf25cf","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k001-wood-veneer-door\/?add-to-cart=3722","custom_data":{"content_ids":"[\"L001-1_3722\"]","content_name":"L001 Lacquered MDF Door (Copy)","content_type":"product","contents":"[{\"id\":\"L001-1_3722\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26319s
+
+11-05-2023 @ 07:25:52 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AAqu2s0u3LSEM9nQ0CqdBZJ"}
+
+11-05-2023 @ 07:26:19 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.39231s
+
+11-05-2023 @ 07:26:19 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 08:13:39 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699164819,"event_id":"048e95ce-b6e5-4d03-be1d-b01061e09b38","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k004-wood-veneer-door\/?add-to-cart=3764","custom_data":{"content_ids":"[\"L001-18-1_3764\"]","content_name":"L020 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-1_3764\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26689s
+
+11-05-2023 @ 08:13:39 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AeecmSSwHUXb44YOil4QE7S"}
+
+11-05-2023 @ 08:24:48 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699165488,"event_id":"32949802-e236-49a4-9096-645324738d54","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/7\/?add-to-cart=3767","custom_data":{"content_ids":"[\"L001-18-4_3767\"]","content_name":"L023 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-4_3767\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27492s
+
+11-05-2023 @ 08:24:48 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Aa3YUzkIikETyItUk-DbS0B"}
+
+11-05-2023 @ 08:25:05 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699165505,"event_id":"46604de0-d201-45af-8338-3b47df60b514","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k002-wood-veneer-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27594s
+
+11-05-2023 @ 08:25:05 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AEhabuQUIUITqm84Bf_ytY_"}
+
+11-05-2023 @ 08:25:21 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699165521,"event_id":"9c4c60ea-f72f-4bda-bc18-d11685ae6755","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p010-panel-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2848s
+
+11-05-2023 @ 08:25:21 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AJGs9a8pRx0BiSUlb4HvDK5"}
+
+11-05-2023 @ 08:25:36 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699165536,"event_id":"36ad32a0-94c8-4163-af47-4f536a4dbe01","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc09-pvc-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26963s
+
+11-05-2023 @ 08:25:36 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AhyZyiu-kgltvi2_8LKlXCg"}
+
+11-05-2023 @ 08:54:17 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699167256,"event_id":"925c169e-9cf6-48d0-8610-70d7f55d259a","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p002-panel-door\/?add-to-cart=3736","custom_data":{"content_ids":"[\"L001-15_3736\"]","content_name":"L015 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-15_3736\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.13946s
+
+11-05-2023 @ 08:54:17 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Az2vMUywSs6c8MWFbXXFhr_"}
+
+11-05-2023 @ 09:04:19 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699167858,"event_id":"c94a7beb-5967-4a8f-951b-7288110e35b1","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k006-wood-veneer-door\/?add-to-cart=3765","custom_data":{"content_ids":"[\"L001-18-2_3765\"]","content_name":"L021 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-2_3765\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26542s
+
+11-05-2023 @ 09:04:19 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AOwNtpU2GcJipVgnwJXbpwz"}
+
+11-05-2023 @ 09:04:45 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699167885,"event_id":"d70a29e1-c564-4db8-9baf-02b120f0ea97","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p012-panel-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27959s
+
+11-05-2023 @ 09:04:45 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AGvYdHUHbqzkQfKKUPzkONy"}
+
+11-05-2023 @ 09:51:59 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699170718,"event_id":"c3b81a60-d2b8-448d-9816-ecde67d22948","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc006-pvc-door\/?noamp=mobile","custom_data":{"content_name":"PVC006 PVC Door","content_ids":"[\"PVC006_3986\"]","content_type":"product","contents":"[{\"id\":\"PVC006_3986\",\"quantity\":1}]","content_category":"PVC Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"47.128.19.60","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26865s
+
+11-05-2023 @ 09:51:59 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ATvaI3iedKttKfUAVT2znN-"}
+
+11-05-2023 @ 09:52:00 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.40014s
+
+11-05-2023 @ 09:52:00 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 10:08:27 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699171706,"event_id":"125b1929-d888-412c-a7a6-94390653bfe2","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k008-wood-veneer-door\/?noamp=mobile","custom_data":{"content_name":"K008 Wood Veneer Door","content_ids":"[\"K008_3963\"]","content_type":"product","contents":"[{\"id\":\"K008_3963\",\"quantity\":1}]","content_category":"Wood Veneer Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"47.128.29.185","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28873s
+
+11-05-2023 @ 10:08:27 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AbUz4pwbQ4voN3ciuDA9z_F"}
+
+11-05-2023 @ 10:08:49 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699171728,"event_id":"4e9d3367-209f-4f19-9ee1-1948164f1bc5","event_source_url":"https:\/\/www.okpsdoor.com\/product\/ml004-melamine-door\/?noamp=mobile","custom_data":{"content_name":"ML004 Melamine Door","content_ids":"[\"ML004_3896\"]","content_type":"product","contents":"[{\"id\":\"ML004_3896\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"47.128.52.81","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2658s
+
+11-05-2023 @ 10:08:49 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AY7JjeQbag7RyJViunQWMml"}
+
+11-05-2023 @ 10:10:01 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/1668026370292586/product_feeds
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.32122s
+
+11-05-2023 @ 10:10:01 - Response
+code: 200
+message: OK
+body: {"data":[{"id":"1190280915023372","file_name":"Okps Door - Catalogue - Fil d\u2019actualit\u00e9","name":"Okps Door - Catalogue - Fil d\u2019actualit\u00e9"}],"paging":{"cursors":{"before":"QVFIUnhHSmRUQk8zWlVJdWxpTzM3cDJWcDBsendLN1otRDBCV18wbTlMX3RfVVRBSlVIRVNJSUp2SE42R1hJVmszTW9OV3BYSXpPZAUl2Y3djSTJJcURKRWdR","after":"QVFIUnhHSmRUQk8zWlVJdWxpTzM3cDJWcDBsendLN1otRDBCV18wbTlMX3RfVVRBSlVIRVNJSUp2SE42R1hJVmszTW9OV3BYSXpPZAUl2Y3djSTJJcURKRWdR"}}}
+
+11-05-2023 @ 10:10:01 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699171800,"event_id":"7b007a22-a012-43df-8ea8-fba85fb6b023","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l079-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L079 Lacquered MDF Door","content_ids":"[\"L079_3865\"]","content_type":"product","contents":"[{\"id\":\"L079_3865\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"114.119.141.127","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27403s
+
+11-05-2023 @ 10:10:01 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AGmCXn_BYorrN0uKZ4BSjys"}
+
+11-05-2023 @ 10:10:01 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/1190280915023372/?fields=created_time,latest_upload,product_count,schedule,update_schedule
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.15855s
+
+11-05-2023 @ 10:10:01 - Response
+code: 200
+message: OK
+body: {"created_time":"2023-05-05T07:48:28+0000","product_count":0,"id":"1190280915023372"}
+
+11-05-2023 @ 10:10:01 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business/fbe_installs?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.47177s
+
+11-05-2023 @ 10:10:01 - Response
+code: 200
+message: OK
+body: {"data":[{"business_manager_id":"543747223972335","commerce_merchant_settings_id":"250740394101322","onsite_eligible":false,"pixel_id":"1311088993098283","profiles":["106325218977906","17841454389513479"],"ad_account_id":"783785203099424","catalog_id":"1668026370292586","pages":["106325218977906"],"instagram_profiles":["17841454389513479"],"ig_shop":{"status":"NOT_ELIGIBLE","reasons":[{"code":"UNKNOWN","message":"Your account is not eligible for Instagram Shopping at this time."}]},"token_type":"User","installed_features":[{"feature_instance_id":"7027469227280260","feature_type":"pixel","connected_assets":{"ad_account_id":"783785203099424","ig_profile_id":"17841454389513479","page_id":"106325218977906","pixel_id":"1311088993098283"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":true}},{"feature_instance_id":"1653664188416318","feature_type":"ads","connected_assets":{"ad_account_id":"783785203099424","catalog_id":"1668026370292586","ig_profile_id":"17841454389513479","page_id":"106325218977906","pixel_id":"1311088993098283"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":true}},{"feature_instance_id":"925632232095199","feature_type":"catalog","connected_assets":{"ad_account_id":"783785203099424","catalog_id":"1668026370292586","ig_profile_id":"17841454389513479","page_id":"106325218977906","pixel_id":"1311088993098283"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":true}},{"feature_instance_id":"636856034922684","feature_type":"ig_shopping","connected_assets":{"catalog_id":"1668026370292586","commerce_merchant_settings_id":"250740394101322","ig_profile_id":"17841454389513479","page_id":"106325218977906"},"additional_info":{"onsite_eligible":false}},{"feature_instance_id":"1644794592633150","feature_type":"messenger_chat","connected_assets":{"ig_profile_id":"17841454389513479","page_id":"106325218977906"},"additional_info":{"onsite_eligible":false}}]}]}
+
+11-05-2023 @ 10:10:01 - Retrieving page access token
+11-05-2023 @ 10:10:02 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.10903s
+
+11-05-2023 @ 10:10:02 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 10:29:48 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699172988,"event_id":"2376ce41-b44b-47b9-a0ff-358ef47349b2","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p006-panel-door\/?add-to-cart=3766","custom_data":{"content_ids":"[\"L001-18-3_3766\"]","content_name":"L022 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-3_3766\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26257s
+
+11-05-2023 @ 10:29:48 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AytUvjqGvzjdrKhhMysU_vR"}
+
+11-05-2023 @ 10:30:21 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699173021,"event_id":"c18368fd-e37f-47c1-9a69-cfa71bd8e835","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k003-wood-veneer-door\/?add-to-cart=3733","custom_data":{"content_ids":"[\"L001-12_3733\"]","content_name":"L012 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-12_3733\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26209s
+
+11-05-2023 @ 10:30:21 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AaV8Jt1RS3G2SiTE_MTqPt2"}
+
+11-05-2023 @ 10:30:52 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699173052,"event_id":"6b306e2b-1563-479d-8fc3-6e4955e06723","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k008-wood-veneer-door\/?add-to-cart=3737","custom_data":{"content_ids":"[\"L001-16_3737\"]","content_name":"L016 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-16_3737\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.08411s
+
+11-05-2023 @ 10:30:52 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AclbGcz9TWX-NzEU7gBPTox"}
+
+11-05-2023 @ 10:40:17 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699173617,"event_id":"436c255c-9fc8-417f-89a0-272fdba6842c","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/8\/?add-to-cart=3737","custom_data":{"content_ids":"[\"L001-16_3737\"]","content_name":"L016 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-16_3737\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.3148s
+
+11-05-2023 @ 10:40:17 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AHmYiRdy6xfO2bZNxIlUzn7"}
+
+11-05-2023 @ 11:19:54 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699175994,"event_id":"08d46228-eb02-4125-9af9-a18e937838fc","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k004-wood-veneer-door\/?add-to-cart=3729","custom_data":{"content_ids":"[\"L001-8_3729\"]","content_name":"L008 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-8_3729\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.08763s
+
+11-05-2023 @ 11:19:54 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ay15H0lchJohFMyt7o601PF"}
+
+11-05-2023 @ 11:22:17 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.28448s
+
+11-05-2023 @ 11:22:17 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 11:30:58 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699176658,"event_id":"45941979-089f-439b-8ab3-a54c7ed285ba","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/2\/?add-to-cart=3899","custom_data":{"content_ids":"[\"P021_3899\"]","content_name":"P021 Panel Door","content_type":"product","contents":"[{\"id\":\"P021_3899\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26818s
+
+11-05-2023 @ 11:30:58 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A6Oup_ozS_JsHWOZoHQflUX"}
+
+11-05-2023 @ 11:31:20 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699176680,"event_id":"c5eea0f3-abf4-4594-99db-ae2087889bfa","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k006-wood-veneer-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27057s
+
+11-05-2023 @ 11:31:20 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2xj6En1sg7kgaVUrE46UWq"}
+
+11-05-2023 @ 11:31:41 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699176700,"event_id":"1e68e551-21cd-4ad4-b5d2-9928d01659fd","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p002-panel-door\/?add-to-cart=3765","custom_data":{"content_ids":"[\"L001-18-2_3765\"]","content_name":"L021 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-2_3765\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27669s
+
+11-05-2023 @ 11:31:41 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A83qaR5e-uzD-bukgnU0xyZ"}
+
+11-05-2023 @ 11:32:01 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699176720,"event_id":"1532c4c1-b02c-4523-bedc-674192c1caad","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p009-panel-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26911s
+
+11-05-2023 @ 11:32:01 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AgUULOwVCdhDniMcCJuet9J"}
+
+11-05-2023 @ 11:32:19 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699176739,"event_id":"bf55cdb9-2cc8-47a5-849e-044798039ec5","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p010-panel-door\/?add-to-cart=3680","custom_data":{"content_ids":"[\"okps01_3680\"]","content_name":"Ak0001 Door PVC MDF","content_type":"product","contents":"[{\"id\":\"okps01_3680\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27098s
+
+11-05-2023 @ 11:32:19 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AE68NtJ4bEZm2BRvT8to553"}
+
+11-05-2023 @ 11:32:38 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699176758,"event_id":"cb4eff21-35d1-4028-87b6-b1b2785abd1a","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc008-pvc-door\/?add-to-cart=3680","custom_data":{"content_ids":"[\"okps01_3680\"]","content_name":"Ak0001 Door PVC MDF","content_type":"product","contents":"[{\"id\":\"okps01_3680\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26987s
+
+11-05-2023 @ 11:32:38 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A1ZfnG-2f6g-Je0NM6sqF9E"}
+
+11-05-2023 @ 12:06:54 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699178814,"event_id":"b4ff61e8-23a3-43c1-9671-d3719bc4e95f","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc002-pvc-door\/?add-to-cart=3730","custom_data":{"content_ids":"[\"L001-9_3730\"]","content_name":"L009 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-9_3730\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26238s
+
+11-05-2023 @ 12:06:54 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A9iQUVSIaC-SYB_LBWDBnzY"}
+
+11-05-2023 @ 12:12:35 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699179155,"event_id":"891bc1b2-805c-4ff1-9f0d-c5b09e7162bf","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p006-panel-door\/?noamp=mobile","custom_data":{"content_name":"P006 Panel Door","content_ids":"[\"P006_3948\"]","content_type":"product","contents":"[{\"id\":\"P006_3948\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":"85","currency":"USD"},"user_data":{"client_ip_address":"114.119.139.102","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2608s
+
+11-05-2023 @ 12:12:35 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"And-jjMnnmTINgbN19a37HQ"}
+
+11-05-2023 @ 12:12:35 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.41681s
+
+11-05-2023 @ 12:12:35 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 12:18:12 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699179492,"event_id":"82e7412a-780e-4aa6-928c-b1ce7bf88e68","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/4\/?add-to-cart=3861","custom_data":{"content_ids":"[\"L057_3861\"]","content_name":"L057 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L057_3861\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28623s
+
+11-05-2023 @ 12:18:12 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A_LRc6C8jW9kr94lp9L43Fi"}
+
+11-05-2023 @ 12:18:17 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699179497,"event_id":"65ab876d-d6cf-43a9-926d-e9b1c5d23b43","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/9\/?add-to-cart=3124","custom_data":{"content_ids":"[\"L001_3124\"]","content_name":"L001 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001_3124\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26485s
+
+11-05-2023 @ 12:18:17 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ANbLMSHY7nzbPuB6U5MrRYv"}
+
+11-05-2023 @ 12:18:21 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699179501,"event_id":"b0b31591-7f08-4225-8261-9ffc3c1296ed","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p008-panel-door\/?add-to-cart=3765","custom_data":{"content_ids":"[\"L001-18-2_3765\"]","content_name":"L021 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-2_3765\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26354s
+
+11-05-2023 @ 12:18:21 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ACiZOvIZk5NeOBBLUh4lB9v"}
+
+11-05-2023 @ 12:18:25 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699179505,"event_id":"23c16db9-8885-4f64-b74e-a74613e89629","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p013-panel-door\/?add-to-cart=3680","custom_data":{"content_ids":"[\"okps01_3680\"]","content_name":"Ak0001 Door PVC MDF","content_type":"product","contents":"[{\"id\":\"okps01_3680\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.268s
+
+11-05-2023 @ 12:18:25 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AkcF-H7LF1--dvEfUwe9uuN"}
+
+11-05-2023 @ 12:18:28 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699179508,"event_id":"d2af044f-69ce-4e75-9645-03a4555b5441","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc010-pvc-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27215s
+
+11-05-2023 @ 12:18:28 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A1I0BXcNfwEnLUTCPQoIn13"}
+
+11-05-2023 @ 12:43:37 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699181017,"event_id":"a4f267b7-3221-49c7-a5e3-fb3b33e58f40","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l009-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L009 Lacquered MDF Door","content_ids":"[\"L001-9_3730\"]","content_type":"product","contents":"[{\"id\":\"L001-9_3730\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":"1","currency":"USD"},"user_data":{"client_ip_address":"47.128.51.235","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.33267s
+
+11-05-2023 @ 12:43:37 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AOe4wNRE370UoZpw0O02a5z"}
+
+11-05-2023 @ 12:53:12 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699181592,"event_id":"f2fdf1c9-5aa3-4bdb-a74f-6296ecd2a95d","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p009-panel-door\/?add-to-cart=3726","custom_data":{"content_ids":"[\"L001-5_3726\"]","content_name":"L005 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-5_3726\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.08757s
+
+11-05-2023 @ 12:53:12 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AYpWv5cDiDkQ7_wZNnDbxXX"}
+
+11-05-2023 @ 13:04:01 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.33522s
+
+11-05-2023 @ 13:04:01 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 13:46:03 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699184763,"event_id":"d4d745d5-1abf-44ac-8061-8e842a571165","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l006-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L006 Lacquered MDF Door","content_ids":"[\"L001-6_3727\"]","content_type":"product","contents":"[{\"id\":\"L001-6_3727\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":"1","currency":"USD"},"user_data":{"client_ip_address":"47.128.52.179","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2605s
+
+11-05-2023 @ 13:46:03 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ar8mGu5yhTeb5cdip_z7kxy"}
+
+11-05-2023 @ 13:46:41 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699184800,"event_id":"a34901fe-78d9-441a-a286-f4fcc2f2635c","event_source_url":"https:\/\/www.okpsdoor.com\/product\/ml007-melamine-door\/?noamp=mobile","custom_data":{"content_name":"ML007 Melamine Door","content_ids":"[\"ML007_3893\"]","content_type":"product","contents":"[{\"id\":\"ML007_3893\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"47.128.48.167","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27128s
+
+11-05-2023 @ 13:46:41 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AXjWLXb6vKV4zJloK_7zl4O"}
+
+11-05-2023 @ 13:51:45 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699185104,"event_id":"74bfa263-f124-48bd-9a59-e67bab1f8937","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc001-pvc-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2784s
+
+11-05-2023 @ 13:51:45 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Au7wS_lRvBWWBrifOuwAjIa"}
+
+11-05-2023 @ 14:06:39 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.39938s
+
+11-05-2023 @ 14:06:39 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 14:20:14 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699186814,"event_id":"c9f3b2b6-796a-4930-9c68-d29f51c7fe02","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l059-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L059 Lacquered MDF Door","content_ids":"[\"L059_3859\"]","content_type":"product","contents":"[{\"id\":\"L059_3859\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"114.119.154.115","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.29153s
+
+11-05-2023 @ 14:20:14 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Auiggrd84sZKjQF9DBAXvdK"}
+
+11-05-2023 @ 14:27:03 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699187223,"event_id":"000a6495-a2af-40a4-b17c-b76edb75125c","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k007-wood-veneer-door\/?add-to-cart=3722","custom_data":{"content_ids":"[\"L001-1_3722\"]","content_name":"L001 Lacquered MDF Door (Copy)","content_type":"product","contents":"[{\"id\":\"L001-1_3722\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.33616s
+
+11-05-2023 @ 14:27:03 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ATIkpzInlyoGWrsbehYRQ_x"}
+
+11-05-2023 @ 14:38:29 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699187908,"event_id":"27635544-d8ff-4903-bb0a-19b9a8efeb68","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/7\/?add-to-cart=3766","custom_data":{"content_ids":"[\"L001-18-3_3766\"]","content_name":"L022 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-3_3766\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.33389s
+
+11-05-2023 @ 14:38:29 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2HyYQ-Z9hDEm2sOIASISJL"}
+
+11-05-2023 @ 14:38:46 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699187926,"event_id":"dd2fb5ce-db1a-49eb-8ebb-a8d52f9e56d8","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/8\/?add-to-cart=3728","custom_data":{"content_ids":"[\"L001-7_3728\"]","content_name":"L007 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-7_3728\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27113s
+
+11-05-2023 @ 14:38:46 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AU1jezuhJpFI43C96E6Uw6D"}
+
+11-05-2023 @ 14:39:03 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699187942,"event_id":"b8bb4c43-0411-4c8b-a763-a70fff09989b","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p003-panel-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27096s
+
+11-05-2023 @ 14:39:03 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A188-Ogk4njIFxxVpgR5yBE"}
+
+11-05-2023 @ 14:39:18 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699187958,"event_id":"25f41264-43b9-4dee-828c-c4d32d5fdfba","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p006-panel-door\/?add-to-cart=3680","custom_data":{"content_ids":"[\"okps01_3680\"]","content_name":"Ak0001 Door PVC MDF","content_type":"product","contents":"[{\"id\":\"okps01_3680\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27785s
+
+11-05-2023 @ 14:39:18 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AQkZ9vwI5ybeRj9ajStMK9V"}
+
+11-05-2023 @ 14:39:33 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699187972,"event_id":"b9c73b12-8331-4c41-b540-14a1e72044c1","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc001-pvc-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27203s
+
+11-05-2023 @ 14:39:33 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A6ZvcgDGsdAc69qzL2z7ztK"}
+
+11-05-2023 @ 15:08:46 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.31359s
+
+11-05-2023 @ 15:08:46 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 15:21:22 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699190482,"event_id":"a34bc6d3-f09b-491e-91d8-2702169ee794","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p003-panel-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.07654s
+
+11-05-2023 @ 15:21:22 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AKmfc_oIEAVOsa4aKLeY2tZ"}
+
+11-05-2023 @ 15:21:35 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699190494,"event_id":"99256f36-ce64-4d46-8ea9-a46b6a76c619","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p004-panel-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2712s
+
+11-05-2023 @ 15:21:35 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Aa0vgvTxw_ADWAc4OSf7XJn"}
+
+11-05-2023 @ 15:21:47 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699190507,"event_id":"83b79998-1603-4a03-bf61-6456ab3f9533","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p013-panel-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27348s
+
+11-05-2023 @ 15:21:47 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ALuGfyE21PaQ2i3WXK0pPs2"}
+
+11-05-2023 @ 15:21:58 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699190518,"event_id":"e0063586-db64-4c09-b01f-5fefeecd1e09","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc005-pvc-door\/?add-to-cart=3680","custom_data":{"content_ids":"[\"okps01_3680\"]","content_name":"Ak0001 Door PVC MDF","content_type":"product","contents":"[{\"id\":\"okps01_3680\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.3095s
+
+11-05-2023 @ 15:21:58 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ASa9IunWYrtDb2y1ECdPIwi"}
+
+11-05-2023 @ 15:22:08 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699190528,"event_id":"b8fc6507-0efa-4c31-9d2d-4849d8551ba4","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc006-pvc-door\/?add-to-cart=3731","custom_data":{"content_ids":"[\"L001-10_3731\"]","content_name":"L010 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-10_3731\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26153s
+
+11-05-2023 @ 15:22:08 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ATRUCC3T285X3ntq17K4JSb"}
+
+11-05-2023 @ 15:45:48 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699191947,"event_id":"34450324-784f-4d32-8bdc-f5ef19bcd1b9","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l020-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L020 Lacquered MDF Door","content_ids":"[\"L001-18-1_3764\"]","content_type":"product","contents":"[{\"id\":\"L001-18-1_3764\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":"1","currency":"USD"},"user_data":{"client_ip_address":"47.128.62.100","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.12866s
+
+11-05-2023 @ 15:45:48 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"APXB83fpdMNChB1IWQ-1nKo"}
+
+11-05-2023 @ 15:45:59 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699191958,"event_id":"dce75bc2-547a-49ed-9c9e-a5fc856407dd","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p017-panel-door\/?noamp=mobile","custom_data":{"content_name":"P017 Panel Door","content_ids":"[\"P001-4_3937\"]","content_type":"product","contents":"[{\"id\":\"P001-4_3937\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"47.128.17.153","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2751s
+
+11-05-2023 @ 15:45:59 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AS2RPdTNj0Vqjcwb3G2iC9T"}
+
+11-05-2023 @ 15:51:52 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699192312,"event_id":"f018e4cb-f22b-4fbb-b98f-76b8888e2808","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p009-panel-door\/?add-to-cart=3764","custom_data":{"content_ids":"[\"L001-18-1_3764\"]","content_name":"L020 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-1_3764\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.29014s
+
+11-05-2023 @ 15:51:52 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AfGwZPjPpjjlhCqGRBydscb"}
+
+11-05-2023 @ 15:52:13 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.42036s
+
+11-05-2023 @ 15:52:13 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 16:01:30 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699192890,"event_id":"a2705da3-b060-47e9-8515-7b6693803a7e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc010-pvc-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2835s
+
+11-05-2023 @ 16:01:30 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AKfStrAEcmJZQGsUNM5R20_"}
+
+11-05-2023 @ 16:24:14 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699194253,"event_id":"8482e347-f58f-443b-bb13-5ea989ba8e43","event_source_url":"https:\/\/www.okpsdoor.com\/product\/ml012-melamine-door\/?noamp=mobile","custom_data":{"content_name":"ML012 Melamine Door","content_ids":"[\"ML012_3888\"]","content_type":"product","contents":"[{\"id\":\"ML012_3888\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"47.128.63.96","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.32582s
+
+11-05-2023 @ 16:24:14 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2vs2ot4iZM_jhNg4bXmuVn"}
+
+11-05-2023 @ 16:40:04 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699195204,"event_id":"36d38106-8d5e-4464-bcd7-4227f0984154","event_source_url":"https:\/\/www.okpsdoor.com\/product\/jhon-vladimir-copy-2\/?add-to-cart=2901","custom_data":{"content_ids":"[\"$18\\\/m\\u00b2_2901\"]","content_name":"Jhon Vladimir","content_type":"product","contents":"[{\"id\":\"$18\\\/m\\u00b2_2901\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27576s
+
+11-05-2023 @ 16:40:04 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AUxWYB0vyacP94hN9vP8moN"}
+
+11-05-2023 @ 16:41:10 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699195269,"event_id":"248c767c-a8cf-43a1-96a8-e8a26ce087bb","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k002-wood-veneer-door\/?add-to-cart=3737","custom_data":{"content_ids":"[\"L001-16_3737\"]","content_name":"L016 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-16_3737\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26692s
+
+11-05-2023 @ 16:41:10 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AgcRafsbD0o2eh-nC4G-rGY"}
+
+11-05-2023 @ 16:47:23 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.69242s
+
+11-05-2023 @ 16:47:23 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 16:49:26 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699195765,"event_id":"0439eac0-b645-4a87-baa2-a4b263bdbab5","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc008-pvc-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2714s
+
+11-05-2023 @ 16:49:26 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"APDIjsNRHRrGYMvY3gl7Fsc"}
+
+11-05-2023 @ 16:57:20 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699196240,"event_id":"db3101f7-2793-43ea-a63e-fa4952007647","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l040-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L040 Lacquered MDF Door","content_ids":"[\"L001-18-9_3772\"]","content_type":"product","contents":"[{\"id\":\"L001-18-9_3772\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":"1","currency":"USD"},"user_data":{"client_ip_address":"47.128.54.10","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26083s
+
+11-05-2023 @ 16:57:20 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AURMgv-PaARXK-1jCTVf-7F"}
+
+11-05-2023 @ 17:23:55 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699197835,"event_id":"a94cf7a7-0ce1-43cb-aea0-75ad907f6ca3","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p008-panel-door\/?add-to-cart=3770","custom_data":{"content_ids":"[\"L001-18-7_3770\"]","content_name":"L026 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-7_3770\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.45203s
+
+11-05-2023 @ 17:23:55 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A_pm5TxPgUQD0Jf-dijipZv"}
+
+11-05-2023 @ 18:02:53 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699200173,"event_id":"0e449303-99b4-431e-8ed7-ca3e79b5de2a","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k001-wood-veneer-door\/?add-to-cart=3730","custom_data":{"content_ids":"[\"L001-9_3730\"]","content_name":"L009 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-9_3730\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.09634s
+
+11-05-2023 @ 18:02:53 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A4aritOMQsF1U9tNCMK4mdG"}
+
+11-05-2023 @ 18:07:15 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.40662s
+
+11-05-2023 @ 18:07:15 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 18:09:15 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699200554,"event_id":"3169ead0-ed5c-4399-a40d-c4105ca72f53","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p002-panel-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27004s
+
+11-05-2023 @ 18:09:15 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ATGaBOHYjji6vex6zROmkwq"}
+
+11-05-2023 @ 18:48:22 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699202902,"event_id":"3c74bd5e-2319-4e8f-b0a3-6ac1330e5b4e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p009-panel-door\/?add-to-cart=3734","custom_data":{"content_ids":"[\"L001-13_3734\"]","content_name":"L013 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-13_3734\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.31098s
+
+11-05-2023 @ 18:48:22 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AqBKEUZ9JSc6C4sWbjCPaQg"}
+
+11-05-2023 @ 18:48:41 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699202920,"event_id":"26895594-c088-45ec-890f-6e6b8cd4fa7c","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p012-panel-door\/?add-to-cart=3732","custom_data":{"content_ids":"[\"L001-11_3732\"]","content_name":"L011 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-11_3732\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.29888s
+
+11-05-2023 @ 18:48:41 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AahdenLq_EKD0ka1zPYaEfs"}
+
+11-05-2023 @ 18:51:05 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699203064,"event_id":"e24bd4bf-7327-4de4-96ef-8b11733fef1e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l054-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L054 Lacquered MDF Door","content_ids":"[\"L054_3864\"]","content_type":"product","contents":"[{\"id\":\"L054_3864\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"114.119.145.102","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28749s
+
+11-05-2023 @ 18:51:05 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ABZe9rgNEMsDhOFmoPAMEL4"}
+
+11-05-2023 @ 18:55:20 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699203320,"event_id":"2b095bc2-6ef4-41a5-924a-e2ff634d30a4","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc004-pvc-door\/?add-to-cart=3680","custom_data":{"content_ids":"[\"okps01_3680\"]","content_name":"Ak0001 Door PVC MDF","content_type":"product","contents":"[{\"id\":\"okps01_3680\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26905s
+
+11-05-2023 @ 18:55:20 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ADtHumUP3yKZK4fDtem4081"}
+
+11-05-2023 @ 18:55:37 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699203337,"event_id":"f0038197-eb09-4674-85c8-960b2030164e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc007-pvc-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27233s
+
+11-05-2023 @ 18:55:37 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AkiOAUgi9TmvRm9CHdtAU2N"}
+
+11-05-2023 @ 18:56:21 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.31385s
+
+11-05-2023 @ 18:56:21 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 18:56:25 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699203379,"event_id":"b51e803b-473c-4c8b-b9db-6dc7fd56ce71","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l070-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L070 Lacquered MDF Door","content_ids":"[\"L070_3849\"]","content_type":"product","contents":"[{\"id\":\"L070_3849\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"114.119.146.18","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 5.3233s
+
+11-05-2023 @ 18:56:25 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A8VoRDs749nsMUuKYjcBClx"}
+
+11-05-2023 @ 19:02:45 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699203765,"event_id":"ff194a61-b5ad-40b5-842f-72e258c9087a","event_source_url":"https:\/\/www.okpsdoor.com\/shop\/page\/9\/?add-to-cart=3735","custom_data":{"content_ids":"[\"L001-14_3735\"]","content_name":"L014 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-14_3735\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26704s
+
+11-05-2023 @ 19:02:45 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Avvtxn3xKQINjDuaD5VhyIJ"}
+
+11-05-2023 @ 19:33:39 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699205618,"event_id":"4d554b96-6dee-402b-8227-b3294bbd3fed","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc008-pvc-door\/?add-to-cart=3734","custom_data":{"content_ids":"[\"L001-13_3734\"]","content_name":"L013 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-13_3734\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26911s
+
+11-05-2023 @ 19:33:39 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A3iGHZKPHLq_iYxQn05pZ-M"}
+
+11-05-2023 @ 19:39:47 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699205987,"event_id":"1250b23e-d8da-49a6-ac5f-43584a384b93","event_source_url":"https:\/\/www.okpsdoor.com\/product\/s001-steel-door\/?add-to-cart=3953","custom_data":{"content_ids":"[\"K001_3953\"]","content_name":"K001 Wood Veneer Door","content_type":"product","contents":"[{\"id\":\"K001_3953\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27387s
+
+11-05-2023 @ 19:39:47 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A_g3Nq0W0sGcdxcoBEted0M"}
+
+11-05-2023 @ 20:19:08 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699208348,"event_id":"98e9b1b6-4e92-4e89-97ad-cc70e4536b8f","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k005-wood-veneer-door\/?add-to-cart=3770","custom_data":{"content_ids":"[\"L001-18-7_3770\"]","content_name":"L026 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-7_3770\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.09811s
+
+11-05-2023 @ 20:19:08 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Am5B231AuQD8bJs1rrByCol"}
+
+11-05-2023 @ 20:24:27 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699208667,"event_id":"3e56cc92-68ce-46b0-bed0-bb67e9f57c9d","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc006-pvc-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28492s
+
+11-05-2023 @ 20:24:27 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AhQtgiiwLqb4egT3uHWsZoI"}
+
+11-05-2023 @ 20:24:45 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699208685,"event_id":"85d3e1e7-0a5f-48a5-8821-38b7763c871f","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc09-pvc-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26588s
+
+11-05-2023 @ 20:24:45 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A9G0KkHf5UGIApkB0jVjRml"}
+
+11-05-2023 @ 20:30:30 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699209029,"event_id":"649e0086-4e4b-4cd5-aaa9-0b6ec49c0dcd","event_source_url":"https:\/\/www.okpsdoor.com\/shop\/page\/10\/?add-to-cart=3731","custom_data":{"content_ids":"[\"L001-10_3731\"]","content_name":"L010 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-10_3731\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.09615s
+
+11-05-2023 @ 20:30:30 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AtP2tkXhjqO3JfIduhDO49-"}
+
+11-05-2023 @ 20:37:24 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.26727s
+
+11-05-2023 @ 20:37:24 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 21:09:39 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.30458s
+
+11-05-2023 @ 21:09:39 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 21:11:12 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699211472,"event_id":"c846e0e1-4066-4360-b91c-a1f3526940c0","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/4\/?add-to-cart=3859","custom_data":{"content_ids":"[\"L059_3859\"]","content_name":"L059 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L059_3859\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.09095s
+
+11-05-2023 @ 21:11:12 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AwFxkJTNAAWvNbk_8nUF9Ky"}
+
+11-05-2023 @ 21:11:26 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699211486,"event_id":"6bd0be12-e03d-4108-8189-f12c925f8807","event_source_url":"https:\/\/www.okpsdoor.com\/product\/jhon-vladimir-copy-5\/?add-to-cart=3107","custom_data":{"content_ids":"[\"$18\\\/m\\u00b2-3_3107\"]","content_name":"Jhon Vladimir","content_type":"product","contents":"[{\"id\":\"$18\\\/m\\u00b2-3_3107\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26584s
+
+11-05-2023 @ 21:11:26 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ANZTFc2YKpYzImMZWtDS1LS"}
+
+11-05-2023 @ 21:11:40 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699211499,"event_id":"8d82b942-a011-47db-875c-4fc3a05e0335","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc004-pvc-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28003s
+
+11-05-2023 @ 21:11:40 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AESMdiIITKUV7-QZee5XrYg"}
+
+11-05-2023 @ 21:11:52 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699211512,"event_id":"ac201527-5a14-43e5-b2fc-b1c3b10bd8db","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc006-pvc-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27011s
+
+11-05-2023 @ 21:11:52 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ADtbUFmJNlCNgbLpftAV5Wt"}
+
+11-05-2023 @ 21:29:54 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699212593,"event_id":"135fda8e-befc-4801-8669-dca800113666","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l056-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L056 Lacquered MDF Door","content_ids":"[\"L056_3862\"]","content_type":"product","contents":"[{\"id\":\"L056_3862\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"114.119.150.41","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28716s
+
+11-05-2023 @ 21:29:54 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AmUOBNZBRc-MHgxYeyALGjk"}
+
+11-05-2023 @ 21:46:54 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699213614,"event_id":"54fda7d9-062b-4ac7-ab9f-9987528e3de3","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l053-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L053 Lacquered MDF Door","content_ids":"[\"L053_3866\"]","content_type":"product","contents":"[{\"id\":\"L053_3866\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"47.128.49.170","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26282s
+
+11-05-2023 @ 21:46:54 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Aks0P838Y3AfU8jGJJHjxMO"}
+
+11-05-2023 @ 21:51:11 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699213870,"event_id":"cee6db09-241b-4045-b34d-9bced933e2f7","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc004-pvc-door\/?add-to-cart=3732","custom_data":{"content_ids":"[\"L001-11_3732\"]","content_name":"L011 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-11_3732\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27379s
+
+11-05-2023 @ 21:51:11 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AwD2o7ml2zCoZzm6-Wcd7H4"}
+
+11-05-2023 @ 21:52:59 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699213979,"event_id":"23e6ceaf-c9b0-4beb-abe1-09145742792a","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/firerated\/?add-to-cart=4111","custom_data":{"content_ids":"[\"F005_4111\"]","content_name":"F005 Wood Fire Rated Door","content_type":"product","contents":"[{\"id\":\"F005_4111\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27009s
+
+11-05-2023 @ 21:52:59 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AXwndYuUCaK86eFoMEyj95A"}
+
+11-05-2023 @ 21:56:25 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699214185,"event_id":"dbeed7d9-cb9a-43ac-8304-e16fc9d7a9f3","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k008-wood-veneer-door\/?add-to-cart=3734","custom_data":{"content_ids":"[\"L001-13_3734\"]","content_name":"L013 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-13_3734\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.10316s
+
+11-05-2023 @ 21:56:25 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AHuYsjPbM2PEOwnup0KdxRm"}
+
+11-05-2023 @ 21:56:48 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699214207,"event_id":"298afff5-062e-4234-8db0-701251aa52e0","event_source_url":"https:\/\/www.okpsdoor.com\/product\/s001-steel-door\/?add-to-cart=3722","custom_data":{"content_ids":"[\"L001-1_3722\"]","content_name":"L001 Lacquered MDF Door (Copy)","content_type":"product","contents":"[{\"id\":\"L001-1_3722\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26696s
+
+11-05-2023 @ 21:56:48 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AgYLHId4cPYnZdpVZXxUvAh"}
+
+11-05-2023 @ 22:02:56 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.29324s
+
+11-05-2023 @ 22:02:56 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 22:36:42 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699216602,"event_id":"2beb5c5c-faa2-4483-bfbd-9d03348e7678","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc008-pvc-door\/?add-to-cart=3771","custom_data":{"content_ids":"[\"L001-18-8_3771\"]","content_name":"L027 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-8_3771\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.42328s
+
+11-05-2023 @ 22:36:42 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AQRo-BZhYEn-XmCD_c1ZMMX"}
+
+11-05-2023 @ 22:36:58 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699216618,"event_id":"65c1b01e-0bb9-4713-9366-03a7999d604f","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k007-wood-fire-rated-door\/?add-to-cart=3722","custom_data":{"content_ids":"[\"L001-1_3722\"]","content_name":"L001 Lacquered MDF Door (Copy)","content_type":"product","contents":"[{\"id\":\"L001-1_3722\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26472s
+
+11-05-2023 @ 22:36:58 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AAZlt6ynHz6nfZMfebnYA5J"}
+
+11-05-2023 @ 22:41:18 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699216877,"event_id":"d8869c98-45eb-4369-9df6-c343e1336306","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/2\/?add-to-cart=3935","custom_data":{"content_ids":"[\"P019_3935\"]","content_name":"P019 Panel Door","content_type":"product","contents":"[{\"id\":\"P019_3935\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26883s
+
+11-05-2023 @ 22:41:18 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Asp7KJcSUfHKHwbZI-KEQu2"}
+
+11-05-2023 @ 22:41:27 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699216886,"event_id":"07d9a7a0-9a8a-4cee-a9ba-e3e6e9cbd565","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/8\/?add-to-cart=3732","custom_data":{"content_ids":"[\"L001-11_3732\"]","content_name":"L011 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-11_3732\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.2664s
+
+11-05-2023 @ 22:41:27 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AWR7h-IB5Dk-_Z__jUadq5w"}
+
+11-05-2023 @ 22:41:34 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699216894,"event_id":"c5bc2a96-3229-4e5b-ad3b-3117bc3b0283","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p004-panel-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26636s
+
+11-05-2023 @ 22:41:34 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AvLn6YWTk9qvW5TBpwA1Qa0"}
+
+11-05-2023 @ 22:41:40 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699216900,"event_id":"d2dd5f25-f1ba-4e56-ad5a-6d6dfb3e8550","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p006-panel-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26832s
+
+11-05-2023 @ 22:41:40 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AcSdtwPSWjnqIEArRVQ1ZR-"}
+
+11-05-2023 @ 22:41:46 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699216905,"event_id":"72012ed1-1f9c-4d63-a2e6-2f4d13933bbb","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p013-panel-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27096s
+
+11-05-2023 @ 22:41:46 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ANwZ38vVVzMbIop6Xbau-H8"}
+
+11-05-2023 @ 22:41:53 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699216913,"event_id":"f7b24488-1c61-41bd-b31e-0093e3be3139","event_source_url":"https:\/\/www.okpsdoor.com\/product\/s004-pivot-door\/?add-to-cart=3953","custom_data":{"content_ids":"[\"K001_3953\"]","content_name":"K001 Wood Veneer Door","content_type":"product","contents":"[{\"id\":\"K001_3953\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26696s
+
+11-05-2023 @ 22:41:53 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AyKMo40o65gXp6xbhQ9SqeL"}
+
+11-05-2023 @ 22:47:50 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699217270,"event_id":"96ab89a6-8ab1-4b96-84c9-5491713f56f7","event_source_url":"https:\/\/www.okpsdoor.com\/shop\/page\/3\/?add-to-cart=3945","custom_data":{"content_ids":"[\"P009_3945\"]","content_name":"P009 Panel Door","content_type":"product","contents":"[{\"id\":\"P009_3945\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26463s
+
+11-05-2023 @ 22:47:50 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AdKiXSq3C7KjOiZE1jfC5Zo"}
+
+11-05-2023 @ 23:24:02 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699219442,"event_id":"83c9b369-e3d4-42a0-9d57-56b0310d01d6","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p011-panel-door\/?add-to-cart=3769","custom_data":{"content_ids":"[\"L001-18-6_3769\"]","content_name":"L025 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-6_3769\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28764s
+
+11-05-2023 @ 23:24:02 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A-Lbev9_UAfTyjQaGGG3BqB"}
+
+11-05-2023 @ 23:24:28 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.38884s
+
+11-05-2023 @ 23:24:28 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-05-2023 @ 23:29:05 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699219745,"event_id":"4b04f1ba-afe8-4589-b008-31053b3e68cc","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/2\/?add-to-cart=3895","custom_data":{"content_ids":"[\"ML005_3895\"]","content_name":"ML005 Melamine Door","content_type":"product","contents":"[{\"id\":\"ML005_3895\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27444s
+
+11-05-2023 @ 23:29:05 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A1BnuDCrk_Sw_SiUps8hZNl"}
+
+11-05-2023 @ 23:29:29 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699219768,"event_id":"8ee62b69-b83c-411b-8568-e9dc55c976ea","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/8\/?add-to-cart=3734","custom_data":{"content_ids":"[\"L001-13_3734\"]","content_name":"L013 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-13_3734\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28838s
+
+11-05-2023 @ 23:29:29 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Af0RFF4wOgbfq9tyuOkgJeR"}
+
+11-05-2023 @ 23:29:50 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699219790,"event_id":"1954f1aa-a89a-4f95-bf07-589e9b98d037","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k007-wood-veneer-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26465s
+
+11-05-2023 @ 23:29:50 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AZxA5kOmJ5DW0r3rnuTLNbX"}
+
+11-05-2023 @ 23:30:12 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699219812,"event_id":"55df7aae-26db-4118-8857-4d4c44ecb8da","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p009-panel-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27843s
+
+11-05-2023 @ 23:30:12 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AZ7PGbDgz_sKpgoeNocht0-"}
+
+11-06-2023 @ 00:10:43 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699222243,"event_id":"bb03132a-9178-49ab-8b40-708ea09abd03","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc010-pvc-door\/?add-to-cart=3737","custom_data":{"content_ids":"[\"L001-16_3737\"]","content_name":"L016 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-16_3737\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.25676s
+
+11-06-2023 @ 00:10:43 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AUIfIU07r0yKQ-Ev1MCTPlp"}
+
+11-06-2023 @ 00:10:59 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699222259,"event_id":"d01d51cf-87b0-44ad-9edd-a3cffc6960ca","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k007-wood-fire-rated-door\/?add-to-cart=3733","custom_data":{"content_ids":"[\"L001-12_3733\"]","content_name":"L012 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-12_3733\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27183s
+
+11-06-2023 @ 00:10:59 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ADRdIQjIriopJ0pgVhMBJim"}
+
+11-06-2023 @ 00:18:41 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699222720,"event_id":"136b605a-3c34-4f24-8731-53cf3d661b39","event_source_url":"https:\/\/www.okpsdoor.com\/product-category\/door\/lacquered-mdf-doors\/page\/7\/?add-to-cart=3773","custom_data":{"content_ids":"[\"L001-18-10_3773\"]","content_name":"L041 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-10_3773\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26366s
+
+11-06-2023 @ 00:18:41 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AK2yDtbseYBL18pq5sPj2WM"}
+
+11-06-2023 @ 00:19:06 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699222746,"event_id":"6d37dba1-f86b-4c2e-a5f8-7b04e4746c0b","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p013-panel-door\/?add-to-cart=3765","custom_data":{"content_ids":"[\"L001-18-2_3765\"]","content_name":"L021 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-2_3765\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27338s
+
+11-06-2023 @ 00:19:06 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AmAak3b1_x-MkJMHKY_vNjW"}
+
+11-06-2023 @ 00:19:32 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699222772,"event_id":"024e6fdd-9986-4ce0-a002-0462fa0a5fdf","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc002-pvc-door\/?add-to-cart=3724","custom_data":{"content_ids":"[\"L001-3_3724\"]","content_name":"L003 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-3_3724\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26176s
+
+11-06-2023 @ 00:19:32 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AOMKN0UadPq7KXxl3gV-Fq3"}
+
+11-06-2023 @ 00:56:55 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699225015,"event_id":"b8a4c20f-248e-4a88-a1d0-e1437aeac84e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p008-panel-door\/?add-to-cart=3730","custom_data":{"content_ids":"[\"L001-9_3730\"]","content_name":"L009 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-9_3730\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.3441s
+
+11-06-2023 @ 00:56:55 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A1GRcywtk_aIiiryQc5Rg5x"}
+
+11-06-2023 @ 00:57:02 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699225021,"event_id":"d0cf2243-9d65-4ab2-a147-79798eca08ec","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p010-panel-door\/?add-to-cart=3767","custom_data":{"content_ids":"[\"L001-18-4_3767\"]","content_name":"L023 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-4_3767\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.26086s
+
+11-06-2023 @ 00:57:02 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AUifxAyfj-aNt9wadQWknre"}
+
+11-06-2023 @ 00:57:09 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.27872s
+
+11-06-2023 @ 00:57:09 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-06-2023 @ 00:58:17 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699225097,"event_id":"eac476c8-36c5-4048-bc86-3a6237ba6e35","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l078-lacquered-mdf-door\/?noamp=mobile","custom_data":{"content_name":"L078 Lacquered MDF Door","content_ids":"[\"L078_3841\"]","content_type":"product","contents":"[{\"id\":\"L078_3841\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":0,"currency":"USD"},"user_data":{"client_ip_address":"114.119.157.142","client_user_agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.28516s
+
+11-06-2023 @ 00:58:17 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AevaQ3VARp922uP8jD6tNVj"}
+
+11-06-2023 @ 01:04:44 - Request
+method: GET
+uri: https://graph.facebook.com/v16.0/fbe_business?fbe_external_business_id=okpsdoor-6454b365f14df
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body:
+duration: 0.30906s
+
+11-06-2023 @ 01:04:44 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Okps Door"},"ads":[{"feature_instance_id":"1653664188416318","enabled":true}],"catalogs":[{"feature_instance_id":"925632232095199","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"fb_shops":[{"enabled":false}],"ig_cta":{"enabled":false},"ig_shopping":{"enabled":true},"ig_shoppings":[{"feature_instance_id":"636856034922684","enabled":true}],"messenger_chat":{"enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"},"messenger_chats":[{"feature_instance_id":"1644794592633150","enabled":true,"domains":["https:\/\/www.okpsdoor.com\/"],"default_locale":"en_US"}],"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"7027469227280260","enabled":true},{"enabled":false}],"thread_intent":{"enabled":false}}
+
+11-06-2023 @ 01:06:03 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699225563,"event_id":"d1a066fc-7682-4db8-9f8d-1c4f63261e18","event_source_url":"https:\/\/www.okpsdoor.com\/product\/k003-wood-veneer-door\/?add-to-cart=3774","custom_data":{"content_ids":"[\"L001-18-11_3774\"]","content_name":"L042 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-11_3774\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.25778s
+
+11-06-2023 @ 01:06:03 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AKvqIoO7V25Z_y4iTfpf7cp"}
+
+11-06-2023 @ 01:06:14 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699225574,"event_id":"c487717a-f31c-450e-9bd2-99ce4fc2a89e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc001-pvc-door\/?add-to-cart=3765","custom_data":{"content_ids":"[\"L001-18-2_3765\"]","content_name":"L021 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-18-2_3765\",\"quantity\":1}]","value":1,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.29772s
+
+11-06-2023 @ 01:06:14 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Adzr17FOehKdBEuBX97HKTw"}
+
+11-06-2023 @ 01:26:29 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699226789,"event_id":"6001b9c1-7ea6-424b-b0a8-079143010ce2","event_source_url":"https:\/\/www.okpsdoor.com\/product\/l019-lacquered-mdf-door-copy\/?noamp=mobile","custom_data":{"content_name":"L019 Lacquered MDF Door","content_ids":"[\"L001-18_3739\"]","content_type":"product","contents":"[{\"id\":\"L001-18_3739\",\"quantity\":1}]","content_category":"Lacquered MDF Doors","value":"1","currency":"USD"},"user_data":{"client_ip_address":"47.128.41.179","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27483s
+
+11-06-2023 @ 01:26:29 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AfqbkhbkHpQfUEg-vQnCLTK"}
+
+11-06-2023 @ 01:53:33 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699228412,"event_id":"a914ca46-4965-4a6e-978a-256e4652904e","event_source_url":"https:\/\/www.okpsdoor.com\/product\/p009-panel-door\/?add-to-cart=3723","custom_data":{"content_ids":"[\"L001-2_3723\"]","content_name":"L002 Lacquered MDF Door","content_type":"product","contents":"[{\"id\":\"L001-2_3723\",\"quantity\":1}]","value":0,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.25845s
+
+11-06-2023 @ 01:53:33 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Atlp4ZCXaw-5Q07MRxjZN21"}
+
+11-06-2023 @ 01:54:04 - Request
+method: POST
+uri: https://graph.facebook.com/v16.0/1311088993098283/events
+user-agent: Facebook-for-WooCommerce/3.0.23 (WooCommerce/7.7.2; WordPress/6.3.2)
+body: {"data":[{"action_source":"website","event_time":1699228444,"event_id":"71a07963-9490-469c-9d41-5f73d3a3e597","event_source_url":"https:\/\/www.okpsdoor.com\/product\/pvc001-pvc-door\/?add-to-cart=3688","custom_data":{"content_ids":"[\"wc_post_id_3688\"]","content_name":"OKPS01 DOOR INTERIOR","content_type":"product","contents":"[{\"id\":\"wc_post_id_3688\",\"quantity\":1}]","value":90,"currency":"USD"},"user_data":{"client_ip_address":"216.244.66.249","client_user_agent":"Mozilla\/5.0 (compatible; DotBot\/1.2; +https:\/\/opensiteexplorer.org\/dotbot; help@moz.com)","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-7.7.2-3.0.23"}
+duration: 0.27555s
+
+11-06-2023 @ 01:54:04 - Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AMzJEdj1_oUEeW_ifULlAAa"}
+

@@ -1,0 +1,135 @@
+.widget {
+  padding: 20px 30px 30px 15px;
+  margin-bottom: 35px;
+  .widget-title {
+    position: relative;
+    line-height: 30px;
+    margin-bottom: 25px;
+    font-size: 23px;
+    &:after {
+      content: " ";
+      display: block;
+      width: 100%;
+      height: 1px;
+      background: var(--secondary-color);
+      bottom: -5px;
+      position: absolute;
+    }
+  }
+  &.widget_text {
+    padding: 0;
+  }
+}
+
+
+
+.wd-latest-posts-widget {
+  ul {
+    margin: 0;
+  }
+  &__post {
+    display: flex;
+    padding: 14px 0;
+  }
+  &__image {
+    flex: 0 0 120px;
+    margin-right: 20px;
+    img {
+      border-radius: 10px;
+      border: 1px solid rgba(0, 82, 255, 0.15);
+    }
+  }
+  &__title {
+    a {
+      color: var(--headings-color);
+    }
+  }
+  &__meta {
+    color: $secondary-text-color;
+  }
+}
+
+.footer_social_icons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 15px 0;
+  li {
+    padding-right: 20px;
+    i {
+      font-size: 20px;
+    }
+  }
+}
+
+
+
+/*-----------search -----------------*/
+.woocommerce-product-search {
+  position: relative;
+}
+
+.searchform,
+.woocommerce-product-search {
+  button[type='submit'] {
+    border: 0 none;
+    box-shadow: none;
+    position: absolute;
+    right: 25px;
+    top: 15px;
+    transition: all 0.3s ease-in-out 0s;
+    background: transparent url("../images/icon/search-icon.svg") no-repeat;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    background-size: cover;
+    color: transparent; // to hide value attribute
+    &:after {
+      display: none;
+    }
+    &:hover {
+      padding: 0;
+      transform: scale(1.2);
+    }
+  }
+}
+.first-footer #searchsubmit i {
+  color: #fff;
+}
+
+
+/*--------------  Popular tags ----------------------------------*/
+.tag-cloud-link {
+  display: inline-block;
+  border-radius: 28px;
+  margin-right: 5px;
+  margin-bottom: 15px;
+  padding: 10px 25px 6px;
+  background: var(--primary-color);
+  color: #fff !important;
+  text-transform: uppercase;
+  font-size: 12px !important;
+  &:hover {
+    background-color: #ff3b33;
+    background-color: var(--accent-color);
+  }
+}
+
+/*--------------  Services Menu ----------------------------------*/
+.menu-services-menu-container {
+  ul li {
+    padding: 0px 0px 0px 26px;
+    a {
+      padding: 0 5px;
+    }
+  }
+}
+
+/*--------------  Calendar ----------------------------------*/
+.widget_calendar {
+  tbody th,
+  tbody td {
+    padding: 0.5rem 0.55rem 0.55rem;
+  }
+}

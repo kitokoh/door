@@ -1,0 +1,393 @@
+// Non-modular or client styles for .l-header region.
+
+.social-icons.inline-list {
+  margin: 0 auto 0.3em auto;
+}
+
+.social-icons li {
+  margin-left: 0;
+  margin-right: .375em;
+  margin-top: .6em;
+
+  & i {
+    padding: 4px 5px;
+    width: 22px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 574px) {
+  .header_top_right {
+    margin-top: -30px;
+  }
+}
+
+.header-top {
+  line-height: 36px;
+}
+
+.contact-info {
+  margin-right: 20px;
+
+  i {
+    padding-left: 10px;
+  }
+}
+
+// Top Bar
+//--------------------------------------------------
+.icon-header {
+  position: relative;
+  bottom: 36px;
+  float: right;
+  display: flex;
+  @include breakpoint(medium only) {
+    position: inherit;
+    float: none;
+    justify-content: space-evenly;
+  }
+  .min-search {
+    font-size: 20px;
+    color: #999797;
+    font-weight: 100;
+    padding-top: 4px;
+    .show-search {
+      a {
+        color: #999797;
+        font-weight: 100;
+      }
+    }
+    .overlay-search {
+      position: absolute;
+    }
+
+    .search-form {
+      label span {
+        display: none;
+      }
+
+      .search-field {
+        width: 235px;
+        border: 1px solid #c0c0c0;
+        height: 0.7em;
+      }
+    }
+
+    .search-submit {
+      display: none;
+    }
+  }
+  .show-cart-btn {
+    padding: 4px 30px 0px 30px;
+  }
+  .fixed .show-cart-btn {
+    display: none;
+  }
+}
+
+.top-bar {
+  .title-bar {
+    padding-left: 13px;
+    padding-top: 0;
+    .name {
+      font-size: 16px;
+      margin: 0;
+
+      h2 {
+        font-size: 25px;
+        font-weight: 400;
+        margin: 5px 0;
+      }
+    }
+  }
+}
+
+.fixed {
+  z-index: 210;
+}
+
+@include breakpoint(small only) {
+  .top-bar {
+    height: 100px;
+
+    .fixed & {
+      @include breakpoint(small only) {
+        height: 70px;
+      }
+    }
+  }
+  .top-bar .name h1 a {
+    line-height: 80px;
+
+    .fixed & {
+      @include breakpoint(small only) {
+        line-height: 70px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .fixed .top-bar {
+    transition: all .5s ease;
+
+    .name h1 a {
+      font-size: 2em;
+      line-height: 43px;
+    }
+  }
+}
+
+.top-bar-section {
+  .main-nav {
+    float: right;
+  }
+
+  .dropdown {
+    left: 0;
+    right: auto;
+    min-width: 160px;
+  }
+
+  .dropdown li a {
+    padding: 3px 20px;
+    line-height: 30px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .top-bar-section {
+    .dropdown {
+      left: 100%;
+    }
+  }
+}
+
+.top-bar-section .right li .dropdown {
+  left: 0;
+  right: auto;
+}
+
+.top-bar-section > ul > li > a {
+  height: 70px;
+  @include breakpoint(small only) {
+    height: 80px;
+  }
+
+  .fixed & {
+    @include breakpoint(small only) {
+      height: 70px;
+    }
+  }
+}
+
+.top-bar-section .main-nav > li > a:not(.button) {
+  line-height: 100px;
+  font-size: 0.92857em;
+
+  &.has-icon {
+    line-height: 25px;
+    @include breakpoint(small only) {
+      text-align: center;
+    }
+
+    .fixed & {
+      @include breakpoint(small only) {
+        line-height: 70px;
+      }
+    }
+  }
+
+  min-width: 100px;
+
+  i {
+    display: block;
+    font-size: 24px;
+    padding: 10px 10px 0 30px;
+    @include breakpoint(small only) {
+      display: block;
+      padding: 16px 0 0 0;
+    }
+
+    .fixed & {
+      @include breakpoint(small only) {
+        display: none;
+      }
+    }
+  }
+}
+
+.top-bar-section .main-nav > .has-dropdown > a.has-icon {
+  padding-right: 15px !important;
+
+  &:after {
+    border: none;
+  }
+}
+
+.top-bar-section .has-dropdown > a:after {
+  content: "\f0d7";
+  font-family: "FontAwesome";
+  font-size: 12px;
+  margin: 0 8px;
+  position: absolute;
+}
+
+.vertical.menu.on {
+  .menu-item-has-children > a:after {
+    content: "\f0d7";
+    font-family: "FontAwesome";
+    font-size: 12px;
+    margin: 0 8px;
+    position: absolute;
+  }
+}
+
+.top-bar-section ul li > a {
+  font-size: 16px;
+}
+
+.titlebar {
+  .button.secondary {
+    margin: 2px;
+  }
+
+  .title {
+    margin: 1.5em 0;
+  }
+
+  .subtitle {
+    color: #DDD;
+    margin-bottom: 30px;
+  }
+}
+
+.breadcrumbs {
+  float: right;
+  margin-top: 70px;
+  color: #FFF;
+
+  li {
+    color: #FFF;
+  }
+
+  > * {
+    font-size: 0.9rem;
+    color: #FFF;
+  }
+}
+
+@include breakpoint(small only) {
+  .doors_mega-menu:hover {
+    > .sub-menu.dropdown {
+      & > li {
+        & > .sub-menu.dropdown {
+          display: block !important;
+        }
+      }
+    }
+  }
+  .doors_mega-menu .sub-menu li li > a {
+    padding: 0 5px !important;
+  }
+}
+
+.doors_mega-menu > .sub-menu.dropdown > li:hover {
+  & > .sub-menu.dropdown {
+    display: block !important;
+  }
+}
+
+@include breakpoint(small only) {
+  /*
+   * ---------mega menu-----------------
+   */
+  .doors_mega-menu:hover {
+    > .sub-menu.dropdown {
+      border: 1px solid #eee;
+      box-shadow: none;
+      height: auto !important;
+      left: auto;
+      position: relative !important;
+      width: 100%;
+
+      & > li {
+        display: table-cell;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 20px;
+        @include breakpoint(small only) {
+          width: auto;
+          display: block;
+          float: none;
+        }
+
+        & > .sub-menu.dropdown {
+          position: unset !important;
+          box-shadow: none;
+          padding-bottom: 10px;
+          height: auto;
+          display: none !important;
+        }
+      }
+    }
+  }
+
+  .doors_mega-menu {
+    > .sub-menu.dropdown {
+      & > li {
+        transition: all .5s ease;
+
+        &:hover {
+          & > .sub-menu.dropdown {
+            display: block !important;
+            width: 100%;
+          }
+        }
+
+      }
+    }
+  }
+
+}
+
+.top-bar-section .doors_mega-menu .has-dropdown > a {
+  padding-right: 10.188rem !important;
+}
+
+.doors_mega-menu > .dropdown > li > a {
+  font-weight: bold;
+}
+
+.top-bar-section .has-dropdown .dropdown li.has-dropdown > a::after {
+  content: "";
+}
+
+.top-bar-section .doors_mega-menu > .dropdown > li:not(.has-form):not(.active) > a:not(.button) {
+  background: transparent;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.top-bar-section .doors_mega-menu > .dropdown > li:hover:not(.has-form):not(.active) > a:not(.button) {
+  background: transparent;
+  color: #000;
+}
+
+.top-bar-section .doors_mega-menu .dropdown .dropdown > li:not(.has-form) a:not(.button) {
+  line-height: 2em;
+}
+
+.empty-menu {
+  float: right;
+}
+
+.has-dropdown.not-click.dropdown_dropped .sub-menu.dropdown {
+  display: block;
+  position: static !important;
+  height: auto;
+  width: auto;
+  overflow: visible;
+  clip: auto;
+  position: absolute !important
+}

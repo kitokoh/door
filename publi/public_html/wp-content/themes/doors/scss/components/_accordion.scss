@@ -1,0 +1,196 @@
+//--------- accordion --------
+
+.wpb-js-composer {
+  /*----------------- style Flat -------------*/
+  .vc_tta-style-flat {
+    &.vc_tta-color-grey, &.vc_tta-color-blue, &.vc_tta-color-turquoise, &.vc_tta-color-pink, &.vc_tta-color-violet,
+    &.vc_tta-color-peacoc, &.vc_tta-color-chino, &.vc_tta-color-mulled-wine, &.vc_tta-color-vista-blue, &.vc_tta-color-black,
+    &.vc_tta-color-orange, &.vc_tta-color-sky, &.vc_tta-color-green, &.vc_tta-color-juicy-pink, &.vc_tta-sandy-brown,
+    &.vc_tta-color-purple, &.vc_tta-color-white
+    {
+      .vc_tta-panels-container  {
+        .vc_tta-panels div.vc_tta-panel {
+          //-------- heading ----------
+          .vc_tta-panel-heading {
+            .vc_tta-panel-title {
+            margin-bottom: 20px;
+            border-radius: 30px 30px 0 30px !important;
+            box-shadow: 0 3px 14px rgba(64, 124, 191,0.2);
+            border: none;
+            a {
+              transition: background 0.5s;
+              background: #fff;
+              color: #666;
+              font-weight: 300;
+              padding: 20px 35px 20px 45px;
+              i:before {
+                border-color: #666;
+              }  
+            }
+            }
+          }
+          &.vc_active, &:hover {
+            .vc_tta-panel-heading {
+              .vc_tta-panel-title {
+
+              a {
+
+                background: var(--primary-color);
+                color: #fff;
+                i:before, i:after {
+                  border-color: #fff;
+                }
+              }
+
+            }
+            }
+          }
+          //----------- content -------------
+          .vc_tta-panel-body {
+            background: #fff;
+            margin: 20px 0;
+            border-radius: 30px 30px 0 30px !important;
+            box-shadow: 0 3px 20px rgba(64, 124, 191,0.2);
+            padding: 40px 50px 80px 50px;
+            p {
+              line-height: 1.9;
+            }
+          }
+
+
+        }
+      }
+    }
+  }
+  /*------------ style Classic ------------*/
+  .vc_tta-style-classic {
+    &.vc_tta-color-grey, &.vc_tta-color-blue, &.vc_tta-color-turquoise, &.vc_tta-color-pink, &.vc_tta-color-violet,
+    &.vc_tta-color-peacoc, &.vc_tta-color-chino, &.vc_tta-color-mulled-wine, &.vc_tta-color-vista-blue, &.vc_tta-color-black,
+    &.vc_tta-color-orange, &.vc_tta-color-sky, &.vc_tta-color-green, &.vc_tta-color-juicy-pink, &.vc_tta-sandy-brown,
+    &.vc_tta-color-purple, &.vc_tta-color-white
+    {
+      .vc_tta-panels-container  {
+        .vc_tta-panels div.vc_tta-panel {
+          .vc_tta-panel-heading {
+            background: transparent;
+            margin-bottom: 20px;
+            border: none;
+            border-bottom: 1px solid var(--primary-color) ;
+            a {
+              color: $headings-color;
+              font-weight: 300;
+              i:before {
+                border-color: #666;
+              }
+            }
+          }
+          &.vc_active, &:hover {
+            .vc_tta-panel-heading {
+              background: transparent;
+              a {
+                color: var(--primary-color);
+              }
+              i:before {
+                border-color: var(--primary-color);
+              }
+
+            }
+          }
+          //----------- content -------------
+          .vc_tta-panel-body {
+            background: #fff;
+            border: none;
+            margin: 20px 0;
+            padding: 15px 35px 20px 35px;
+            p {
+              line-height: 1.9;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+
+
+.social-icons .boxes.small.layout-1 {
+  .box-title-1 {
+    padding: 0 0 5px 90px;
+  }
+
+  .box-body {
+    clear: none;
+    padding: 0 0 5px 90px;
+  }
+
+  .box-icon {
+    padding: 20px 25px;
+    width: 80px;
+    color: #FFF;
+  }
+}
+
+.facebook {
+  .box-icon {
+    background: #25579e;
+  }
+}
+
+.twitter {
+  .box-icon {
+    background: #0cbce3;
+  }
+}
+
+.instagram {
+  .box-icon {
+    background: #a9c511;
+  }
+}
+
+.youtube {
+  .box-icon {
+    background: #e31b1b;
+  }
+}
+
+.progress .meter {
+  background: #DF7292;
+}
+
+.newslettre-section {
+  background-color: #dfe7eb;
+   background-color:linear-gradient(to left, #dfe7eb 0%, #e7dbdf 100%);
+}
+
+.newslettre-form {
+  margin: 0 auto;
+  width: 400px;
+  position: relative;
+
+  .wpcf7-form-control.wpcf7-submit.wd-submit-bnt {
+    background-color: transparent;
+    background-image: url("../images/pen-icon.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 43px;
+    padding: 0 19px;
+    position: absolute;
+    right: 0;
+    text-indent: -999em;
+    top: 1px;
+  }
+}
+
+/* .newslettre-section .wpb_row, .wpb_content_element, ul.wpb_thumbnails-fluid > li, .last_toggle_el_margin, .wpb_button {
+  margin-bottom: 0 !important;
+} */
+.newslettre-section {
+  margin-bottom: 0 !important;
+}
+
+div.wd-item-title {
+  margin-bottom: 40px !important;
+}

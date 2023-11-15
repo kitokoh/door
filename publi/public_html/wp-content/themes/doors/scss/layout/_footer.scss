@@ -1,0 +1,69 @@
+// Non-modular or client styles for .l-footer region.
+
+.l-footer-columns {
+  background: $footer-background;
+  padding: 34px 0 0 0;
+  color: #FFF;
+margin-top: 40px;
+  .block-title {
+    margin-top: 30px;
+    text-transform: capitalize;
+    color: #fff;
+    letter-spacing: 1px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    margin-bottom: 30px;
+    padding-bottom: 0;
+    font-weight: 700;
+  }
+
+  a {
+    color: #FFF;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  ul {
+    display: grid;
+  }
+  .searchform {
+    position: relative;
+  }
+  .wp-caption-text, .calendar_wrap tbody {
+    color: #000;
+  }
+
+
+}
+
+
+.l-footer {
+  a {
+    color: #FFF;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  padding-top: 1em;
+  background: rgba(2, 12, 27, 1);
+  border: none;
+  color: #ddd;
+
+  .footer {
+    padding: 0.7em;
+  }
+
+  & h1, & h2, & h3, & h4, & h5, & h6 {
+    color: #FFF;
+  }
+
+  .copyright {
+    color: #93a1a7;
+    opacity: 0.5;
+    padding: 0.7em;
+  }
+}
+

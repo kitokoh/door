@@ -1,0 +1,368 @@
+.gridlist-toggle {
+  float: right;
+  padding-left: 15px;
+  a {
+    display: inline-block;
+    padding: 18px 14px 16px;
+    line-height: 1em !important;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: var(--primary-color);
+  }
+  a em {
+    display: none;
+  }
+  a:hover {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  a.active {
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .dashicons:before,
+  .dashicons {
+    font-size: 1.1em;
+    line-height: 1;
+    height: 1em;
+    width: 1em;
+  }
+}
+
+.woocommerce ul {
+  &.products {
+    li.product:not(.product-category) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      background-color: transparent;
+      transition: all .4s ease-in-out;
+      &:hover {
+        @include breakpoint(small only) {
+          margin-bottom: 30px !important;
+        }
+        .button {
+          opacity: 1;
+        }
+      }
+
+      .woocommerce-loop-product__title {
+        font-size: 20px;
+        text-transform: none;
+      }
+      .star-rating {
+        display: none;
+      }
+
+      .button {
+        padding: 10px 12px;
+        transition: all .4s ease-out .2s;
+        color: var(--white-color);
+        border-radius: 0;
+        &:hover {
+          color: var(--white-color);
+        }
+      }
+
+      .onsale {
+        margin: 0;
+        right: 15px;
+        border-radius: 0;
+        background: var(--accent-color);
+        padding: 9px 18px;
+        line-height: 1em;
+        min-width: unset;
+        min-height: unset;
+      }
+      .price {
+        color: var(--primary-color);
+        font-size: 1em;
+        del {
+          margin-right: 8px;
+        }
+      }
+      .description {
+        display: none;
+        &, p {
+          font-size: 14px;
+        }
+
+        ul {
+          margin-left: 1.25rem;
+        }
+
+        ul, li {
+          list-style-type: disc;
+        }
+      }
+    }
+
+    ///////////////////////////   Grid Display   /////////////////////////////
+    &.grid {
+      margin: 0 -15px;
+      &[class*=columns-] li.product:not(.product-category) {
+        width: calc(100% - 30px);
+        clear: none;
+        @media only screen and (min-width: 680px) {
+          width: calc(50% - 30px);
+          clear: none;
+        }
+      }
+      &.columns-2 li.product:not(.product-category) {
+        @include breakpoint(large up) {
+          width: calc(50% - 30px);
+        }
+      }
+      &.columns-3 li.product:not(.product-category) {
+        @include breakpoint(large up) {
+          width: calc(33.33% - 30px);
+        }
+      }
+      &.columns-4 li.product:not(.product-category) {
+        @include breakpoint(large up) {
+          width: calc(25% - 30px);
+        }
+      }
+      li.product:not(.product-category) {
+        margin: 0 15px 30px;
+        @include breakpoint(medium only) {
+          width: calc(33.33% - 30px);
+          margin: 0 15px 25px;
+        }
+
+        .product-image-wrapper {
+          border: 1px solid rgba(29, 29, 29, .07);
+          overflow: hidden;
+          > a{
+            overflow: hidden;
+            display: block;
+            @include breakpoint(medium down) {
+              background: #f8f8f8;
+            }
+          }
+          img {
+            transition: all 1s ease;
+          }
+        }
+        .product-details-wrapper .woocommerce-loop-product__title {
+          margin: 9px 0 0;
+          font-size: 22px;
+          text-transform: none;
+          font-weight: 600;
+          transition: 0.6s cubic-bezier(0.89, -1.16, 0.15, 0.88);
+          padding: 7px 0;
+        }
+        .product-details-wrapper {
+          width: 100%;
+          text-align: left;
+          overflow: hidden;
+          position: relative;
+          margin: 6px 0 10px;
+          min-height: 82px;
+        }
+        .button {
+          padding: 13px 50px;
+          font-size: 14px;
+          font-weight: 700;
+          bottom: -110px;
+          position: absolute;
+          transition: bottom .4s 0s ease-in;
+          &.quick_view {
+            display: none;
+          }
+        }
+        .pricing-location {
+          display: none;
+          opacity: .75;
+          transition: all .3s;
+          background-color: rgba(250, 250, 250, 0.7);
+          padding: 10px 15px;
+          border: 1px solid rgba(112, 112, 112, 0.28);
+          body.home & {
+            display: none;
+          }
+          h5,
+          .location,
+          .with-operator {
+            display: none;
+          }
+          .pricing-partial ul {
+            margin: 0;
+          }
+          ul small {
+            font-size: 14px;
+          }
+        }
+        &:hover {   // hover on li.product:not(.product-category)
+          img {
+            transform: scale(1.05)
+          }
+          .woocommerce-loop-product__title {
+            transform: translateY(50px);
+          }
+          .button {
+            bottom: 0;
+            transition: bottom .4s .3s ease-out;
+          }
+          .pricing-location {
+            opacity: 1;
+          }
+        }
+      }
+      &.products {
+        .pricing-partial li {
+          width: 100%;
+          clear: both;
+          .label {
+            float: left;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--header-color);
+            margin: 0;
+          }
+          .price_value {
+            float: right;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--header-color);
+          }
+        }
+      }
+    }
+
+    ///////////////////////////   List Display   /////////////////////////////
+    &.list {
+      li.product:not(.product-category) {
+        width: 100%;
+        text-align: left;
+        box-shadow: 0 3px 30px 0 rgba(0, 0, 0, 0.01);
+        border: 1px solid #EBEBEE;
+        @include breakpoint(small down){
+          padding-bottom: 60px;
+        }
+        @media screen and (max-width: 400px) {
+          padding-bottom: 100px;
+        }
+        .product-image-wrapper {
+          @include breakpoint(medium only) {
+            max-width: 50%;
+          }
+          @include breakpoint(large up) {
+            max-width: 58%;
+            padding-right: 40px;
+          }
+          img {
+            height: 380px;
+            object-fit: cover;
+          }
+        }
+
+        .product-details-wrapper {
+          flex: 1;
+          padding-top: 20px;
+          @include breakpoint(medium down) {
+            padding: 15px;
+          }
+        }
+        .woocommerce-loop-product__title {
+          font-size: 24px;
+          padding-bottom: 15px;
+        }
+
+        .pricing-location {
+          flex-direction: column;
+          padding-right: 10px;
+          @include breakpoint(large up) {
+            padding-right: 22px;
+          }
+          .pricing-partial,
+          .with-operator {
+            background: rgba(222, 222, 222, 0.15);
+            margin-bottom: 8px;
+            margin-bottom: 12px;
+            margin-top: 4px;
+          }
+          h5 {
+            background: rgba(222, 222, 222, 0.2);
+            padding: 2px 10px;
+            border-bottom: 1px solid rgba(204, 204, 204, 0.3);
+          }
+          ul {
+            margin: 0;
+            padding: 0 10px;
+          }
+          .with-operator > div {
+            padding: 0 10px;
+          }
+          .label {
+            display: none;
+          }
+          .location {
+            position: absolute;
+            bottom: 26px;
+            max-width: 200px;
+            @media screen and (max-width: 400px) {
+              bottom: 70px;
+            }
+          }
+        }
+        .description {
+          display: none;
+        }
+        .button {
+          transition: all .25s ease-out;
+          color: #000;
+          margin: 30px auto 0;
+          display: block;
+          background-repeat: no-repeat;
+          background-image: linear-gradient(to right, var(--primary-color) 0%, var(--primary-color) 100%);
+          background-position: 0 calc(100% + 0px);
+          background-size: 100%;
+          transition: all 0.25s ease-out 0s;
+          background-color: transparent;
+          padding: 12px 12px;
+          font-size: 14px;
+          position: absolute;
+          bottom: 20px;
+          right: 22px;
+          &:hover {
+            padding: 12px 20px;
+          }
+          &.quick_view {
+            bottom: 9px;
+            width: 30px;
+            height: 30px;
+            border: none !important;
+            position: absolute;
+            right: 6px;
+            &:hover {
+              padding: 10px 12px;
+              &:after {
+                color: var(--accent-color);
+              }
+            }
+            &::after {
+              content: "\f002";
+              font-family: fontawesome;
+              font-size: 16px;
+              line-height: 28px;
+              color: var(--primary-color);
+            }
+          }
+
+          &.loading {
+            padding-right: 20px;
+            &::after {
+              right: -7px;
+            }
+          }
+        }
+
+        &:hover {
+          box-shadow: 0 0 36px 0 rgba(1, 1, 1, 0.02);
+          border: 1px solid var(--primary-color);
+          .button {
+            background-size: 100% 100%;
+          }
+        }
+      }
+    }
+  }
+}

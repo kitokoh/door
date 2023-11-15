@@ -1,0 +1,61 @@
+#comments {
+  margin-top: 60px;
+
+  ul.commentlist, ol.commentlist {
+    list-style-type: none !important;
+
+    li.comment {
+      margin-bottom: 30px;
+      list-style-type: none;
+
+      .comment-author img {
+        float: left;
+        margin-right: 12px;
+      }
+
+      .author-meta a {
+        color: #777;
+        font-size: 12px;
+        font-family: "Open Sans", sans-serif;
+      }
+
+      section.comment {
+        background-color: #fafafa;
+        border: 1px solid #ecf0f1;
+        margin-top: 20px;
+        padding: 20px 30px;
+        margin-bottom: 20px;
+
+        p {
+          font-family: "open sans", sans-serif;
+          color: #666;
+          font-size: 16px;
+          line-height: 29px;
+        }
+
+        .comment-reply-link {
+          border-radius: 3px;
+          color: #fff;
+          float: right;
+          font-size: 14px;
+          padding: 3px 10px;
+        }
+      }
+    }
+  }
+}
+
+.commentlist {
+  .pingback {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+
+    .author-meta {
+      a {
+        display: block;
+      }
+    }
+
+  }
+}

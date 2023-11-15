@@ -1,0 +1,175 @@
+div.wd-item-title.text-center h4 {
+  background: url("../images/wd-title-bg.png") no-repeat center bottom;
+  font-size: 2.3em;
+  padding-bottom: 30px;
+}
+
+.wpb_wrapper > h4 {
+  color: inherit;
+}
+
+.team-member-item h4, .team-member-item h3 {
+  display: inline;
+}
+
+.team-member-item h4 {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.team-member-item h3 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.team-member-desc p {
+  color: #717171;
+  font-size: 13px;
+  margin-top: 18px;
+  padding: 0px 6px 15px;
+  text-align: center;
+}
+
+.team-member-name-job-title {
+  background-color: #31aae1;
+  color: #fff;
+  margin-top: -17px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6px 0;
+  position: relative;
+  width: 80%;
+  text-transform: uppercase;
+}
+
+.team-member-name-job-title:before {
+  border-bottom: 20px solid transparent;
+  border-left: 15px solid #31a9e5;
+  border-top: 16px solid transparent;
+  content: " ";
+  position: absolute;
+  right: -14px;
+  top: 0;
+}
+
+.team-member-name-job-title:after {
+  border-bottom: 19px solid transparent;
+  border-right: 14px solid #31a9e5;
+  border-top: 17px solid transparent;
+  content: " ";
+  position: absolute;
+  left: -14px;
+  top: 0;
+}
+
+li .team-member-item {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+li .team-member-item:hover {
+  background-color: #ffffff;
+}
+
+.team-membre-social-icons ul {
+  margin: 0;
+
+  li {
+    display: inline-block;
+    margin: 0;
+
+    a {
+      color: #d8d8d8;
+      transition: color 0.2s;
+      padding: 14px 10px;
+      display: inline-block;
+
+      &:hover {
+        color: #35a6e2;
+      }
+    }
+  }
+}
+
+
+//***********************    Style 2   **********************/
+.team-list-style2 {
+  > li {
+    list-style: none;
+    @include breakpoint(small only) {
+      padding: 0 5px;
+    }
+  }
+  .team-member {
+    border-radius: unset;
+    transition: all 0.35s cubic-bezier(.45, .05, .55, .95);
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 5px 20px rgba(99, 98, 97, 0.08);
+    margin-bottom: 15px;
+    @include breakpoint(medium up){
+      margin-bottom: 40px;
+    }
+    &:hover {
+      /*  @extend .small-shadow:hover; */
+      transform: translate3d(0, -20px, 0);
+    }
+    &__picture {
+      padding: 0;
+      img {
+        border-bottom: 4px solid #FDB900;
+      }
+    }
+    &__info {
+      text-align: center;
+      padding: 24px 30px 10px 30px;
+      @include breakpoint(small only) {
+        padding: 30px 15px 6px 15px;
+      }
+    }
+    &__name {
+      margin: 0;
+      font-weight: 500;
+      font-size: 22px;
+    }
+    &__job {
+      color: #FDB900;
+      font-size: 14px;
+      font-weight: 600;
+      text-transform: uppercase;
+      padding: 3px;
+    }
+    &__socialmedia {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      padding-bottom: 20px;
+      margin-top: -10px;
+      ul {
+        margin: 0;
+        li {
+          display: inline;
+          padding: 0 6px;
+          a {
+            color: #BDBAC2;
+            font-weight: 400;
+            padding: 3px 8px;
+            background: #F5F5F5;
+            border-radius: 50%;
+            font-size: 17px;
+            min-width: 34px;
+            display: inline-block;
+            text-align: center;
+            min-height: 34px;
+          }
+        }
+      }
+      .fa-twitter {
+        color: #000;
+      }
+    }
+
+  }
+}

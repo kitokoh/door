@@ -1,0 +1,521 @@
+.blog-info {
+  min-height: 510px;
+  width: 11.667%;
+  margin-right: 2%;
+  padding: 0;
+  @include breakpoint(small only) {
+    min-height: 70px;
+    padding-top: 10px;
+    width: 100%;
+  }
+
+  & > div {
+    @extend .p-0-20;
+  }
+
+  .arrow {
+    border-style: solid;
+    border-width: 15px 0 15px 15px;
+
+    position: absolute;
+    right: -50px;
+    top: 35px;
+    width: 20px;
+  }
+
+  br {
+    @include breakpoint(small only) {
+      display: none;
+    }
+  }
+
+  .author {
+    text-align: center;
+    word-break: break-all;
+  }
+
+  .date {
+    a:hover {
+      color: #fff;
+    }
+
+    padding: 15px;
+    margin-top: 100px;
+    text-align: center;
+    @include breakpoint(small only) {
+      float: left;
+      margin: 0 0 0 90px;
+      padding: 7px 0 0 7px;
+      width: 130px;
+    }
+
+    .day {
+      padding-bottom: 10px;
+      display: block;
+      @include breakpoint(small only) {
+        float: left;
+      }
+    }
+
+    .year {
+      display: block;
+      padding: 2px;
+    }
+  }
+
+  .author {
+    @include breakpoint(small only) {
+      float: left;
+    }
+
+    div {
+      padding-top: 5px;
+    }
+  }
+
+  .comment-count {
+    margin-top: 100px;
+    @include breakpoint(small only) {
+      float: right;
+      margin: 0;
+    }
+
+    div {
+      padding-bottom: 6px;
+    }
+  }
+
+}
+
+.blog-info {
+  min-height: 320px;
+
+  .date, .comment-count {
+    margin-top: 20px;
+  }
+
+}
+
+.has-post-thumbnail .blog-info {
+  min-height: 510px;
+
+  .date, .comment-count {
+    margin-top: 100px;
+  }
+
+}
+
+.blog-posts {
+  padding-top: 15px;
+  width: 85.333%;
+  margin-right: 1%;
+  @include breakpoint(small only) {
+    width: 100%;
+  }
+
+  article > div {
+    position: relative;
+  }
+
+  .post-info {
+    margin-bottom: 20px;
+  }
+
+  .fa-image {
+    font-size: 3em;
+    right: 10px;
+    position: absolute;
+    top: 10px;
+    z-index: 2;
+  }
+
+  .read-more {
+    margin-top: 20px;
+
+    a:hover {
+      color: #fff;
+    }
+  }
+}
+
+.post-author, .post-categories {
+  margin-left: 15px;
+}
+
+.blog-posts .body {
+  line-height: 1.6em;
+  margin-top: 10px;
+}
+
+#respond, #comments {
+  margin-top: 80px;
+}
+
+.blog-posts .body.field {
+  margin-top: 15px;
+}
+
+.page {
+  h1 {
+    font-size: 50px;
+  }
+
+  .wp-block-quote.is-large {
+    cite {
+      text-align: left;
+      font-size: 11px;
+    }
+  }
+}
+.single .blog-posts .body .wp-block-cover__inner-container p {
+  padding: 0 30px;
+}
+.single .blog-posts .body {
+  .wp-block-pullquote.alignleft,
+  .wp-block-pullquote .alignright {
+    p {
+      font-size: 20px;
+    }
+  }
+
+  .has-large-font-size,
+  ul {
+    font-size: 16px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.4;
+    margin: 40px 0 10px;
+  }
+
+  ul {
+    margin-left: 1.3em;
+    padding-left: 1.3em;
+  }
+
+  .wp-block-gallery {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .wp-block-separator {
+    border: none;
+    border-bottom: 2px solid #8f98a1;
+    margin: 1.65em auto;
+  }
+
+  .wp-block-separator:not(.is-style-wide):not(.is-style-dots) {
+    max-width: 100%;
+  }
+
+  .wp-block-quote:not(.is-large):not(.is-style-large) {
+    border-left: 1px solid #ddd;
+    padding-left: 1em;
+    color: red;
+  }
+
+  .wp-block-pullquote {
+    border-bottom: 4px solid #555d66;
+    border-top: 4px solid #555d66;
+    color: #40464d;
+
+    blockquote {
+      border: none;
+      padding: 0;
+    }
+
+    p {
+      font-size: 28px;
+    }
+
+    cite {
+      font-weight: 700;
+      font-family: "lato";
+      font-style: normal;
+      font-size: 11px;
+      text-transform: capitalize;
+      color: rgb(111, 111, 111);
+      padding: 0;
+
+      &:before {
+        content: "\2014 \0020";
+      }
+    }
+  }
+}
+
+code {
+  background: none;
+  border: none;
+}
+
+.wd-pagination {
+  padding: 20px;
+  text-align: center;
+}
+
+.simple-blog {
+  .wd-carousel-container {
+    overflow: hidden;
+  }
+}
+
+.blog-post {
+
+  .sticky {
+    background: rgba(238, 238, 238, 0.49);
+    border-top: 2px solid;
+    margin-bottom: 60px;
+    padding: 20px 10px 40px;
+    position: static;
+
+    .blog-info {
+      border-left: 5px solid #83c77a;
+    }
+  }
+}
+
+.page-links {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.blog {
+  .blog-post {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  @include breakpoint(medium up){
+    .large-up-2 > .column  {
+      width: calc(100%/2 - 30px);
+      padding: 0;
+      margin-bottom: 30px;
+    }
+    .large-up-3 > .column  {
+      width: calc(100%/3 - 30px);
+      padding: 0;
+      margin-bottom: 30px;
+    }
+    .large-up-4 > .column  {
+      width: calc(100%/4 - 30px);
+      padding: 0;
+      margin-bottom: 30px;
+    }
+  }
+  .type-post {
+    &:hover {
+      .read-more {
+        visibility: visible;
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  }
+
+  .post-title {
+    font-size: 25px;
+    font-weight: bold;
+    padding-right: 60px;
+    line-height: 1.3;
+    a {
+      color: var(--headings-color);
+    }
+  }
+
+  .has-post-thumbnail .post-title {
+    padding-right: 0;
+  }
+
+  .post-thmbnail {
+    margin-bottom: 20px;
+    position: relative;
+
+    .date {
+      background: var(--primary-color);
+      bottom: 0;
+      color: #fff;
+      padding: 10px 10px;
+      position: absolute;
+      right: 0;
+    }
+  }
+
+  .post-info {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    color: #666;
+    font-size: 14px;
+    opacity: .8;
+
+    & > ul {
+      margin-left: 0;
+
+      &:before, &:after {
+        content: "|";
+        margin: 0 10px;
+      }
+
+    }
+
+  }
+
+  .body {
+    color: #666;
+  }
+
+  .read-more {
+    color: #999999;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all .3s;
+    i {
+      margin-left: 10px;
+    }
+  }
+
+  .format-quote {
+    background: var(--primary-color);
+    padding: 45px 10px 20px;
+
+    p, h2 {
+      color: #fff;
+    }
+  }
+}
+
+.blog-post {
+  .post_format-post-format-link {
+    padding: 30px 10px;
+    background: var(--primary-color);
+    text-align: center;
+
+    a {
+      color: #fff;
+    }
+
+    .link {
+      i {
+        color: #fff;
+        font-size: 20px;
+        margin-bottom: 20px;
+        margin-top: 10px;
+      }
+    }
+  }
+}
+
+.single-post, .blog-posts .page {
+  .wp-block-gallery {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  ul.wp-block-latest-posts {
+    list-style-type: circle;
+  }
+
+  .wp-block-quote {
+    cite {
+      font-size: 11px;
+      text-align: left;
+    }
+  }
+}
+
+.doors_multi_post_top_image {
+  border-top: none;
+  border-bottom: 3px solid var(--primary-color);
+  position: relative;
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: var(--primary-color);
+    opacity: 0.04;
+    z-index: -1;
+  }
+
+  .doors_multi_post_top_image_info {
+    padding-left: 28px;
+    padding-right: 15px;
+    h2 {
+      padding: 24px 0px 0;
+      line-height: 1;
+      font-size: 25px;
+      a {
+        color: var(--headings-color);
+        font-size: inherit;
+        font-weight: 700;
+      }
+    }
+    span {
+      color: #636D80;
+    }
+    ul {
+      li {
+        a {
+          color: #636D80;
+        }
+      }
+    }
+    p {
+      max-width: 322px;
+      color: #636363;
+      font-size: 16px !important;
+      line-height: 24px !important;
+      padding-top: 12px;
+    }
+
+    .wd-redmore {
+      visibility: hidden;
+    }
+  }
+}
+
+/********** 3- Recent News ******/
+.latest-posts {
+  li {
+    margin-bottom: 10px;
+    border-bottom: 1px dashed rgba(237, 237, 237, 0.2);
+    padding-bottom: 10px;
+
+    &:last-child {
+      border: none;
+    }
+  }
+
+  .blog-image {
+    float: left;
+    width: 30%;
+    margin-top: 5px;
+  }
+
+  .recent-post-details {
+    &.has-image {
+      float: right;
+      width: 60%;
+    }
+
+    .blog-title {
+      margin-bottom: 0;
+      line-height: 1px;
+
+      a {
+        font-size: 16px;
+
+      }
+    }
+
+    .subheader {
+      margin: 0;
+    }
+  }
+}

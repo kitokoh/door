@@ -1,0 +1,17 @@
+.interior-designs-banner-section h1,.interior-designs-discover-section .wp-block-button__link,.interior-designs-service-section h2,.interior-designs-service-section-colum p{
+    font-family: 'Ubuntu', sans-serif !important;
+}
+.interior-designs-discover-section{
+    max-height: 180px;
+}
+.interior-designs-discover-section .wp-block-button__link:hover{
+    color: #f8b742 !important;
+    background: #fff !important;
+}
+/*digital-agency-aboutus-section*/
+.interior-designs-discover-section {
+    position: absolute;
+    margin-top: -3%;
+    z-index: 9;
+    width: 103%;
+}

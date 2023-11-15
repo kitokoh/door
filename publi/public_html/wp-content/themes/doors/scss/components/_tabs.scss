@@ -1,0 +1,104 @@
+
+//------------- Tabs -----------
+.wpb-js-composer .vc_tta.vc_general .vc_tta-panels-container {
+  .vc_tta-panels {
+    border: none !important;
+    background: transparent !important;
+  }
+}
+.wpb-js-composer .vc_tta-tabs .vc_tta-tabs-list {
+  overflow: visible !important;
+  padding: 20px 15px 15px 20px !important;
+}
+.wpb-js-composer {
+  /*----------------- style Flat -------------*/
+  div.vc_tta-style-modern,
+  div.vc_tta-style-flat, div.vc_tta-style-outline
+  {
+    &.vc_tta-color-grey, &.vc_tta-color-blue, &.vc_tta-color-turquoise,.vc_tta-color-pink, &.vc_tta-color-violet,
+    &.vc_tta-color-peacoc, &.vc_tta-color-chino, &.vc_tta-color-mulled-wine,&.vc_tta-color-vista-blue, &.vc_tta-color-black,
+    &.vc_tta-color-orange, &.vc_tta-color-sky, &.vc_tta-color-green,&.vc_tta-color-juicy-pink, &.vc_tta-sandy-brown,
+    &.vc_tta-color-purple, &.vc_tta-color-white {
+
+      //------ heading --------
+      .vc_tta-tabs-container {
+        .vc_tta-tab > a {
+          background:#fff;
+          border-radius: 30px 30px 0 30px !important;
+          margin-right: 20px;
+          border: none;
+          box-shadow: 0 4px 25px rgba(64,124,191,0.15);
+          padding: 15px 40px 10px 40px;
+          &:hover {
+            box-shadow: 0 3px 14px rgba(64, 124, 191,0.2);
+            background: #fff;
+            color: var(--secondary-color);
+          }
+        }
+        .vc_tta-tab.vc_active > a {
+          background: var(--primary-color);
+          color: #fff;
+          border-radius: 30px 30px 0 30px !important;
+          margin-right: 20px;
+          border: none;
+        }
+      }
+
+
+
+      //----------- content -------------
+      .vc_tta-panels-container {
+        .vc_tta-panel-body {
+          background: #fff;
+          margin: 20px 0;
+          border-radius: 30px 30px 0 30px !important;
+          box-shadow: 0 3px 30px rgba(64, 124, 191,0.1);
+          padding: 40px 50px 80px 50px;
+        }
+      }
+
+    }
+
+  }
+
+
+  /*------------ style Classic ------------*/
+  div.vc_tta-style-classic
+  {
+    &.vc_tta-color-grey, &.vc_tta-color-blue, &.vc_tta-color-turquoise,.vc_tta-color-pink, &.vc_tta-color-violet,
+    &.vc_tta-color-peacoc, &.vc_tta-color-chino, &.vc_tta-color-mulled-wine,&.vc_tta-color-vista-blue, &.vc_tta-color-black,
+    &.vc_tta-color-orange, &.vc_tta-color-sky, &.vc_tta-color-green,&.vc_tta-color-juicy-pink, &.vc_tta-sandy-brown,
+    &.vc_tta-color-purple, &.vc_tta-color-white {
+
+      //------ heading --------
+      .vc_tta-tabs-container {
+        .vc_tta-tab > a {
+          background: #fff;
+          margin-right: 20px;
+          border: none;
+          border-bottom: 1px solid var(--primary-color) ;
+          &:hover {
+            background: #fff;
+            color: var(--primary-color);
+          }
+        }
+        .vc_tta-tab.vc_active > a {
+          color: var(--primary-color);
+          margin-right: 20px;
+          border: none;
+          border-bottom: 1px solid var(--primary-color) !important;
+        }
+      }
+      //----------- content -------------
+      .vc_tta-panels-container {
+        .vc_tta-panel-body {
+          background: #fff;
+          border: none;
+          margin: 20px 0;
+          padding: 0px 40px 40px 35px;
+        }
+      }
+    }
+
+  }
+}

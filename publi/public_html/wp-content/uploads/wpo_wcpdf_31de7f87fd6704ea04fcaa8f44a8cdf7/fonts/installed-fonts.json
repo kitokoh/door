@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/OpenSans-Normal",
+        "bold": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/OpenSans-Bold",
+        "italic": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/Segoe-Normal",
+        "bold": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/Segoe-Bold",
+        "italic": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/Segoe-Italic",
+        "bold_italic": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/RobotoSlab-Normal",
+        "bold": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/RobotoSlab-Bold",
+        "italic": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/currencies",
+        "bold": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/currencies",
+        "italic": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/currencies",
+        "bold_italic": "\/home\/okpsdoor\/public_html\/wp-content\/uploads\/wpo_wcpdf_31de7f87fd6704ea04fcaa8f44a8cdf7\/fonts\/currencies"
+    }
+}

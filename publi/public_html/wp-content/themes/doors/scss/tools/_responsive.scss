@@ -1,0 +1,32 @@
+@include breakpoint(small up ) {
+  .collapsed-title, .collapsed-title h1 {
+    font-size: 1.6em;
+    font-weight: bolder;
+    line-height: 1.2em;
+    margin: 0;
+  }
+  .corporate-layout .top-bar.expanded {
+    height: auto;
+  }
+  .corporate.top-bar-section {
+    margin-top: 10px;
+    @include breakpoint(small only ){
+      margin-top: 0;
+    }
+  }
+  .corporate-layout .fixed .top-bar {
+    height: 50px;
+  }
+}
+
+@include breakpoint(small only ) {
+  .show-cart-btn {
+    display: none;
+  }
+}
+
+@include breakpoint(small only ){
+  .corporate-layout .top-bar {
+    height: 100px;
+  }
+}

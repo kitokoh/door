@@ -1,0 +1,14 @@
+{
+    "notosansglobal": {
+        "normal": "\/home\/okpsdoor\/public_html\/wp-content\/jpcrm-storage\/fonts\/\/NotoSans-Regular",
+        "bold": "\/home\/okpsdoor\/public_html\/wp-content\/jpcrm-storage\/fonts\/\/NotoSans-Bold",
+        "italic": "\/home\/okpsdoor\/public_html\/wp-content\/jpcrm-storage\/fonts\/\/NotoSans-Italic",
+        "bold_italic": "\/home\/okpsdoor\/public_html\/wp-content\/jpcrm-storage\/fonts\/\/NotoSans-BoldItalic"
+    },
+    "notosanscham": {
+        "normal": "\/home\/okpsdoor\/public_html\/wp-content\/jpcrm-storage\/fonts\/\/NotoSansCham-Regular",
+        "bold": "\/home\/okpsdoor\/public_html\/wp-content\/jpcrm-storage\/fonts\/\/NotoSansCham-Bold",
+        "italic": "\/home\/okpsdoor\/public_html\/wp-content\/jpcrm-storage\/fonts\/\/NotoSansCham-Regular",
+        "bold_italic": "\/home\/okpsdoor\/public_html\/wp-content\/jpcrm-storage\/fonts\/\/NotoSansCham-Regular"
+    }
+}

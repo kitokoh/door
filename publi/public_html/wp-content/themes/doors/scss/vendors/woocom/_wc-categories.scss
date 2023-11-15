@@ -1,0 +1,42 @@
+.woocommerce ul.products li.product{
+  &.product-category {
+    width: calc(100% - 50px);
+    margin: 0 25px 25px;
+    @include breakpoint(medium) {
+      width: calc(50% - 30px);
+      margin: 0 15px 25px;
+    }
+    @include breakpoint(large up) {
+      width: calc(25% - 28px);
+      margin: 0 14px 25px;
+    }
+    img {
+      overflow: hidden;
+      text-align: center;
+      box-shadow: 0 15px 0px -15px #f0f0f0, 0 0px 0px 1px #f0f0f0;
+      background-color: transparent;
+      border: 1px solid transparent;
+      border-radius: 0;
+      transition: all .2s ease-in-out;
+      object-fit: contain;
+      @include breakpoint(medium up) {
+        height: 200px;
+      }
+    }
+    &:hover img{
+      box-shadow: 0 46px 0px 2px var(--primary-color), 0 0px 0px 2px var(--primary-color);
+      border-color: var(--primary-color);
+    }
+    .count {
+      display: none;
+    }
+  }
+  .woocommerce-loop-category__title {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    padding-top: 10px;
+    text-transform: none;
+  }
+}

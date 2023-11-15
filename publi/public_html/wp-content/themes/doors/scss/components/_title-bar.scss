@@ -1,0 +1,46 @@
+.l-header{
+    width: 100%;
+    z-index: 11;
+    @include breakpoint(large up) {
+        position: absolute;
+    }
+    .contain-to-grid {
+        background-color: #FFF ;
+        box-shadow: 0 10px 50px rgba(0, 0, 0, 0.05);
+         max-height: 157px;
+        @include breakpoint(medium down) {
+            max-height: 376px;
+        }
+        @include breakpoint(small only) {
+            max-height:inherit;
+        }
+        #responsive-menu{
+            cursor: pointer;
+            @include breakpoint(small only) {
+                max-height: 43px;
+            }
+        }
+        @include breakpoint(small only) {
+            .title-bar {
+                background: unset;
+                .menu-icon{
+                 &:after{
+                     content: "";
+                     display: block;
+                     height: 0;
+                     position: absolute;
+                     margin-top: -8px;
+                     top:13px;
+                     right: .9375rem;
+                     left: 100px;
+                     width: 16px;
+                     box-shadow: 0 0 0 1px
+                     #000, 0 7px 0 1px #000, 0 14px 0 1px #000;
+                 }
+                }
+            }
+        }
+    }
+}
+
+

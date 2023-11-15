@@ -1,0 +1,37 @@
+/* Main column width */
+.wp-block {
+  max-width: 797px;
+}
+
+/* Width of "wide" blocks */
+.wp-block[data-align="wide"] {
+  max-width: 1080px;
+}
+
+/* Width of "full-wide" blocks */
+.wp-block[data-align="full"] {
+  max-width: none;
+}
+
+.editor-post-title {
+  background: #265FB4 url("images/title-bg.jpg");
+  margin-bottom: 40px;
+}
+
+.editor-post-title__input {
+  font-size: 2.714em;
+  line-height: 1.265em;
+  color: #FFF;
+  margin: 1.5em 0;
+  font-family: 'Archivo Narrow';
+  font-weight: 700;
+  padding: 0;
+}
+
+p {
+  font-family: 'Lato';
+  line-height: 1.55 !important;
+  font-size: 15px;
+  font-weight: normal;
+  margin-bottom: 1.25rem;
+}

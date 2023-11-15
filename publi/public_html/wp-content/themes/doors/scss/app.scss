@@ -1,0 +1,177 @@
+@charset 'utf-8';
+
+@import 'settings';
+@import '../node_modules/foundation-sites/scss/foundation';
+
+// Global styles
+@include foundation-global-styles;
+@include foundation-forms;
+@include foundation-typography;
+
+// Grids (choose one)
+@include foundation-xy-grid-classes;
+@include foundation-grid;
+// @include foundation-flex-grid;
+
+// Generic components
+@include foundation-button;
+@include foundation-button-group;
+@include foundation-close-button;
+@include foundation-label;
+@include foundation-progress-bar;
+@include foundation-slider;
+@include foundation-switch;
+@include foundation-table;
+// Basic components
+@include foundation-badge;
+@include foundation-breadcrumbs;
+@include foundation-callout;
+@include foundation-card;
+@include foundation-dropdown;
+@include foundation-pagination;
+@include foundation-tooltip;
+
+// Containers
+@include foundation-accordion;
+@include foundation-media-object;
+@include foundation-orbit;
+@include foundation-responsive-embed;
+@include foundation-tabs;
+@include foundation-thumbnail;
+// Menu-based containers
+@include foundation-menu;
+@include foundation-menu-icon;
+@include foundation-accordion-menu;
+@include foundation-drilldown-menu;
+@include foundation-dropdown-menu;
+
+// Layout components
+@include foundation-off-canvas;
+@include foundation-reveal;
+@include foundation-sticky;
+@include foundation-title-bar;
+@include foundation-top-bar;
+
+// Helpers
+@include foundation-float-classes;
+@include foundation-flex-classes;
+@include foundation-visibility-classes;
+// @include foundation-prototype-classes;
+
+// Motion UI
+//@include motion-ui-transitions;
+//@include motion-ui-animations;
+
+
+// Base
+//
+// Init file contains required imports. Here's where we include normalize,
+// foundation and also compass.
+@import "base/init";
+// Import our mixins early so they can be used by other partials.
+@import "base/mixins";
+//
+// Common file is where you place common utility classes to extend or
+// parametrics. Optional file.
+@import "base/common";
+//
+// Styling for elements.
+@import "base/elements";
+//
+
+
+// Vendors
+/*@import "vendors/woocom/wc-sidebar";
+@import "vendors/woocom/wc-general";
+@import "vendors/woocom/wc-quickview";*/
+@import "vendors/vcomposer";
+@import "vendors/sliders";
+
+
+// Layout
+//
+// Each section of the document has it's own partial seperated out to improve
+// developer experience. Additionally, grids can be declared in layouts as well.
+@import "layout/global";
+@import "layout/header";
+@import "layout/aside";
+@import "layout/triptych";
+@import "layout/footer";
+
+// Components
+@import "components/blocks";
+@import "components/buttons";
+@import "components/section";
+@import "components/calendar";
+@import "components/table";
+@import "components/lists";
+@import "components/menus/_menu-metro";
+@import "components/menus/_menu-corporate";
+@import "components/menus/_menu-creative";
+@import "components/menus/_menu-modern";
+@import "components/menus/_menu-offcanvas";
+@import "components/menus/_menu-address";
+@import "components/menus/_mobile";
+@import "components/team";
+@import "components/accordion";
+@import "components/sliders";
+@import "components/lang_icons";
+@import "components/tabs";
+
+
+
+
+
+@import "components/type";
+@import "components/forms";
+@import "components/foundation-icons";
+
+@import "components/blog";
+@import "components/vcomposer";
+@import "components/portfolio";
+@import "components/_hero-image";
+@import "components/_headings";
+@import "components/_testimonail";
+@import "components/_comments";
+@import "components/_image_with_text";
+@import "components/pricing-table";
+
+// tools
+@import "tools/mixins";
+@import "tools/responsive";
+// Modules
+@import "modules/postimage";
+@import "modules/countup";
+@import "modules/piechart";
+@import "modules/box-text";
+@import "modules/image-box";
+@import "modules/carousel";
+@import "modules/404";
+@import "modules/progress_bare";
+@import "modules/team-member-slider";
+@import "modules/widgets";
+@import "modules/woocommerce";
+
+
+// Themes
+
+@import "theme/global";
+
+@import "theme/section";
+@import "theme/table";
+@import "theme/header";
+@import "theme/blocks";
+@import "theme/box-wrapper";
+@import "theme/portfolio_hover";
+
+@import "theme/blog";
+
+
+@import "theme/button";
+@import "components/calltoaction";
+
+@import "help";
+@import "components/title-bar";
+
+
+

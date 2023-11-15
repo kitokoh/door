@@ -1,0 +1,102 @@
+
+.vc_responsive .wpb_row .full_section_container {
+  .vc_span12,
+  .vc_col-sm-12 {
+    padding: 0;
+  }
+}
+
+div.wpb_row {
+  position: relative;
+}
+
+@include breakpoint(small only) {
+  main.l-main.row .main {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+//======= single image =============
+div.wpb_single_image .vc_single_image-wrapper.vc_box_shadow {
+  box-shadow: 0 20px 52px 0 rgba(0, 95, 178, 0.2);
+  img {
+    box-shadow: none;
+    border-radius: 10px;
+  }
+}
+
+.overflow-visible {
+  overflow: visible !important;
+  @include breakpoint(medium down) {
+    overflow: hidden !important;
+  }
+  .moved-down-video {
+    position: absolute;
+    top: -43px;
+    @include breakpoint(medium down) {
+      position: relative;
+      top: 0;
+    }
+  }
+}
+
+.moved-down-img-1 {
+  position: absolute;
+  top: -185px;
+  left: 110px;
+  z-index: 1;
+  @include breakpoint(large only) {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+  @include breakpoint(medium down) {
+    bottom: unset;
+    position: relative;
+    top: 0;
+    left: 54px;
+  }
+}
+
+.moved-down-img-2 {
+  position: absolute;
+  bottom: -756px;
+  left: -60px;
+  @include breakpoint(large only) {
+    position: absolute;
+    bottom: unset;
+    left: 147px;
+    top: 0;
+  }
+  @include breakpoint(medium down) {
+    bottom: unset;
+    top: 84px;
+    left: 0;
+  }
+}
+
+//================ FrontEnd Editor ===========*/
+.compose-mode {
+  .vc_wd_empty_spaces,
+  .vc_wd_headings,
+  .vc_wd_icon_text,
+  .vc_wd_count_up,
+  .vc_wd_vc_portfolio,
+  .vc_wd_pricing_table,
+  .vc_digixon_button,
+  .vc_wd_team {
+    .vc_controls > .vc_controls-out-tl {
+      top: 15px !important;
+    }
+  }
+
+  .vc_element.vc_empty .vc_empty-element {
+    min-height: 20px;
+  }
+}
+
+.image_shadow .vc_single_image-wrapper{
+  box-shadow: 0 6px 26px rgba(0, 0, 0, 0.07);
+}

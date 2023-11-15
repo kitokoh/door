@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: L001 Lacquered MDF Door	</title>
+	<atom:link href="https://www.okpsdoor.com/product/jhon-doe-copy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.okpsdoor.com/product/jhon-doe-copy/</link>
+	<description>BE DITRIBUTOR Turkiye</description>
+	<lastBuildDate>Wed, 10 May 2023 11:55:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>
+		By: İbrahım Alı		</title>
+		<link>https://www.okpsdoor.com/product/jhon-doe-copy/#comment-90</link>
+
+		<dc:creator><![CDATA[İbrahım Alı]]></dc:creator>
+		<pubDate>Wed, 10 May 2023 08:52:52 +0000</pubDate>
+		<guid isPermaLink="false">http://themes.webdevia.com/windows-doors/demo-2/?post_type=product&#038;p=3124#comment-90</guid>
+
+					<description><![CDATA[Minimum 50]]></description>
+			<content:encoded><![CDATA[<p>Minimum 50</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ibrahim Ali		</title>
+		<link>https://www.okpsdoor.com/product/jhon-doe-copy/#comment-76</link>
+
+		<dc:creator><![CDATA[Ibrahim Ali]]></dc:creator>
+		<pubDate>Tue, 09 May 2023 06:53:49 +0000</pubDate>
+		<guid isPermaLink="false">http://themes.webdevia.com/windows-doors/demo-2/?post_type=product&#038;p=3124#comment-76</guid>
+
+					<description><![CDATA[Ok]]></description>
+			<content:encoded><![CDATA[<p>Ok</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ibrahim Ali		</title>
+		<link>https://www.okpsdoor.com/product/jhon-doe-copy/#comment-75</link>
+
+		<dc:creator><![CDATA[Ibrahim Ali]]></dc:creator>
+		<pubDate>Tue, 09 May 2023 06:53:03 +0000</pubDate>
+		<guid isPermaLink="false">http://themes.webdevia.com/windows-doors/demo-2/?post_type=product&#038;p=3124#comment-75</guid>
+
+					<description><![CDATA[Good]]></description>
+			<content:encoded><![CDATA[<p>Good</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

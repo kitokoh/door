@@ -1,0 +1,135 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright 2017 Google Inc. All Rights Reserved.
+FontName Noto Sans Cham
+FontSubfamily Regular
+UniqueID 2.000;GOOG;NotoSansCham-Regular
+FullName Noto Sans Cham Regular
+Version Version 2.000
+PostScriptName NotoSansCham-Regular
+Trademark Noto is a trademark of Google Inc.
+Manufacturer Monotype Imaging Inc.
+Designer Monotype Design Team
+Description Designed by Monotype design team.
+FontVendorURL http://www.google.com/get/noto/
+FontDesignerURL http://www.monotype.com/studio
+LicenseDescription This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.
+LicenseURL http://scripts.sil.org/OFL
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -100
+FontHeightOffset 0
+Ascender 1117
+Descender -351
+FontBBox -455 -494 1522 1242
+StartCharMetrics 131
+U 0 ; WX 0 ; N NULL ; G 1
+U 13 ; WX 260 ; N CR ; G 2
+U 32 ; WX 260 ; N space ; G 3
+U 33 ; WX 269 ; N exclam ; G 114
+U 34 ; WX 408 ; N quotedbl ; G 115
+U 39 ; WX 225 ; N quotesingle ; G 116
+U 40 ; WX 300 ; N parenleft ; G 117
+U 41 ; WX 300 ; N parenright ; G 118
+U 44 ; WX 268 ; N comma ; G 119
+U 45 ; WX 322 ; N hyphen ; G 120
+U 46 ; WX 268 ; N period ; G 121
+U 47 ; WX 372 ; N slash ; G 122
+U 58 ; WX 268 ; N colon ; G 123
+U 59 ; WX 268 ; N semicolon ; G 124
+U 63 ; WX 434 ; N question ; G 125
+U 160 ; WX 260 ; N nbspace ; G 4
+U 173 ; WX 322 ; N softhyphen ; G 11
+U 8204 ; WX 0 ; N uni200C ; G 6
+U 8205 ; WX 0 ; N uni200D ; G 7
+U 8208 ; WX 322 ; N hyphentwo ; G 10
+U 9676 ; WX 594 ; N uni25CC ; G 5
+U 43520 ; WX 1121 ; N a_cham ; G 70
+U 43521 ; WX 938 ; N i_cham ; G 71
+U 43522 ; WX 592 ; N u_cham ; G 72
+U 43523 ; WX 943 ; N e_cham ; G 73
+U 43524 ; WX 938 ; N ai_cham ; G 74
+U 43525 ; WX 588 ; N o_cham ; G 75
+U 43526 ; WX 855 ; N ka_cham ; G 23
+U 43527 ; WX 1309 ; N kha_cham ; G 24
+U 43528 ; WX 879 ; N ga_cham ; G 25
+U 43529 ; WX 1356 ; N gha_cham ; G 26
+U 43530 ; WX 1076 ; N ngue_cham ; G 27
+U 43531 ; WX 1078 ; N nga_cham ; G 28
+U 43532 ; WX 981 ; N cha_cham ; G 29
+U 43533 ; WX 1575 ; N chha_cham ; G 30
+U 43534 ; WX 1330 ; N ja_cham ; G 31
+U 43535 ; WX 1485 ; N jha_cham ; G 32
+U 43536 ; WX 1352 ; N nhue_cham ; G 33
+U 43537 ; WX 1351 ; N nha_cham ; G 34
+U 43538 ; WX 1351 ; N nhja_cham ; G 35
+U 43539 ; WX 865 ; N ta_cham ; G 36
+U 43540 ; WX 1097 ; N tha_cham ; G 37
+U 43541 ; WX 1021 ; N da_cham ; G 38
+U 43542 ; WX 1047 ; N dha_cham ; G 39
+U 43543 ; WX 1064 ; N nue_cham ; G 40
+U 43544 ; WX 1064 ; N na_cham ; G 41
+U 43545 ; WX 1064 ; N dda_cham ; G 42
+U 43546 ; WX 1162 ; N pa_cham ; G 43
+U 43547 ; WX 1021 ; N ppa_cham ; G 44
+U 43548 ; WX 1483 ; N pha_cham ; G 45
+U 43549 ; WX 1003 ; N ba_cham ; G 46
+U 43550 ; WX 1310 ; N bha_cham ; G 47
+U 43551 ; WX 1047 ; N mue_cham ; G 48
+U 43552 ; WX 1047 ; N ma_cham ; G 49
+U 43553 ; WX 1047 ; N bba_cham ; G 50
+U 43554 ; WX 1298 ; N ya_cham ; G 51
+U 43555 ; WX 864 ; N ra_cham ; G 52
+U 43556 ; WX 881 ; N la_cham ; G 53
+U 43557 ; WX 1047 ; N va_cham ; G 54
+U 43558 ; WX 1074 ; N ssa_cham ; G 55
+U 43559 ; WX 1185 ; N sa_cham ; G 56
+U 43560 ; WX 1165 ; N ha_cham ; G 57
+U 43561 ; WX 0 ; N aaSign_cham ; G 91
+U 43562 ; WX 0 ; N iSign_cham ; G 93
+U 43563 ; WX 0 ; N iiSign_cham ; G 94
+U 43564 ; WX 0 ; N eiSign_cham ; G 95
+U 43565 ; WX 0 ; N uSign_cham ; G 97
+U 43566 ; WX 0 ; N oeSign_cham ; G 99
+U 43567 ; WX 538 ; N oSign_cham ; G 89
+U 43568 ; WX 538 ; N aiSign_cham ; G 90
+U 43569 ; WX 0 ; N auSign_cham ; G 96
+U 43570 ; WX 0 ; N ueSign_cham ; G 100
+U 43571 ; WX 542 ; N yaMedial_cham ; G 76
+U 43572 ; WX 400 ; N raMedial_cham ; G 77
+U 43573 ; WX 0 ; N laMedial_cham ; G 78
+U 43574 ; WX 0 ; N waMedial_cham ; G 80
+U 43584 ; WX 898 ; N kFinal_cham ; G 58
+U 43585 ; WX 941 ; N gFinal_cham ; G 59
+U 43586 ; WX 1101 ; N ngFinal_cham ; G 60
+U 43587 ; WX 0 ; N ngSignFinal_cham ; G 87
+U 43588 ; WX 1025 ; N chFinal_cham ; G 61
+U 43589 ; WX 916 ; N tFinal_cham ; G 62
+U 43590 ; WX 1113 ; N nFinal_cham ; G 63
+U 43591 ; WX 1204 ; N pFinal_cham ; G 64
+U 43592 ; WX 1349 ; N yFinal_cham ; G 65
+U 43593 ; WX 908 ; N rFinal_cham ; G 66
+U 43594 ; WX 938 ; N lFinal_cham ; G 67
+U 43595 ; WX 1117 ; N ssFinal_cham ; G 68
+U 43596 ; WX 0 ; N mSignFinal_cham ; G 88
+U 43597 ; WX 565 ; N hSignFinal_cham ; G 69
+U 43600 ; WX 634 ; N zero_cham ; G 13
+U 43601 ; WX 565 ; N one_cham ; G 14
+U 43602 ; WX 956 ; N two_cham ; G 15
+U 43603 ; WX 938 ; N three_cham ; G 16
+U 43604 ; WX 841 ; N four_cham ; G 17
+U 43605 ; WX 588 ; N five_cham ; G 18
+U 43606 ; WX 864 ; N six_cham ; G 19
+U 43607 ; WX 914 ; N seven_cham ; G 20
+U 43608 ; WX 1018 ; N eight_cham ; G 21
+U 43609 ; WX 1058 ; N nine_cham ; G 22
+U 43612 ; WX 950 ; N spiral_cham ; G 109
+U 43613 ; WX 426 ; N danda_cham ; G 106
+U 43614 ; WX 658 ; N doubleDanda_cham ; G 107
+U 43615 ; WX 867 ; N tripleDanda_cham ; G 108
+EndCharMetrics
+EndFontMetrics

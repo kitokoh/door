@@ -1,0 +1,2 @@
+[2023-06-14 07:17:50] wpdesk.DEBUG: Sender payload: {"click_action":"no","url":"https:\/\/www.okpsdoor.com","localhost":"no"} {"source":"wpdesk-sender"} []
+[2023-06-14 07:17:52] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []
